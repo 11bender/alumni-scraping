@@ -5,7 +5,6 @@ Download the CSV you want, or scrape your own data.
 
 * [Selenium](https://selenium-python.readthedocs.io/) - A tool designed for QA testing, but that actually works great for making these types of bots
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/doc) - A tool to scrape HTML/XML content (that saved be *big time* with this project)
-* [Kenarapfaik](https://github.com/arapfaik/scraping-glassdoor-selenium)
 
 ## Installation
 1. Install [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) (or an alternatie driver for your browser of choice):
