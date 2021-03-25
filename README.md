@@ -1,4 +1,4 @@
-# Scraped Alumni Data 
+# Scraping Alumni Data using a bot 🤖 
 Download the CSV you want, or scrape your own data.
 
 ## Thank you to:
