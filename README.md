@@ -18,4 +18,4 @@ Use tags to control which data you want to get.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/harshibar/5-python-projects/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License.
