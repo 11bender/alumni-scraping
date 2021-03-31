@@ -1,0 +1,1072 @@
+,Companies,locations
+0,"['Google', 'Gartner', 'du', 'Atos']","['Dubai, United Arab Emirates', 'Dubai, UAE']"
+1,"['Oracle', 'IBM', 'ZTE Corporation']","['Amsterdam Area, Netherlands', 'Dubai, United Arab Emirates', 'Dubai, United Arab Emirates', 'Morocco', 'Beijing City, China']"
+2,"['Université Paris 8 Vincennes - Saint-Denis', 'Boston Consulting Group (BCG)', 'Saegus']","['Paris Area, France', 'Paris 09, Île-de-France, France', 'Région de Paris, France', 'Région de Paris, France', 'Paris Area, France']"
+3,"['IBM', 'Freelance, self-employed', 'GASCO', 'Raqmiyat', 'ITQAN AL BAWARDI COMPUTERS, ABU DHABI, UAE']","['Casablanca', 'Abu Dhabi', 'United Arab Emirates']"
+4,"['IBM', 'SQLI']","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Rabat', 'Rabat', 'Casablanca', 'Région de Nantes, France']"
+5,"['IBM', 'Consultant SAP']","['Préfecture de Casablanca, Morocco']"
+6,"['Bank Al-Maghrib\n        Internship', 'Trésorerie Générale du Royaume\n        Internship', 'Centre National pour la Recherche Scientifique et Technique (CNRST)\n        Internship']","['Casablanca - Settat, Maroc', 'Casablanca', 'Casablanca - Settat, Maroc', 'Casablanca - Settat, Maroc', 'Rabat', 'Rabat', 'Rabat']"
+7,"['IBM', 'Capgemini', 'CBI', 'ATLANTA Assurance']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Casablanca']"
+8,"['IBM', 'Atos', 'Applinum']","['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Marrakech']"
+9,"['Henceforth', 'Amendis\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Morocco', 'Casablanca', 'Rabat', 'Tétouan, Morocco']"
+10,"['IBM', 'United Remote\n        Full-time']","['Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+11,"['IBM', 'BANQUE CENTRALE POPULAIRE', 'Banque Centrale Populaire', 'OCP SA']","['Casablanca', 'Casablanca']"
+12,"['IBM', 'Bourse de casablanca', 'Crédit du Maroc']","['Casablanca Prefecture, Morocco']"
+13,"['IBM', 'Atos']",['France']
+14,"['Akka Technologies', 'Préfecture de la région Souss-Massa', 'Transparence Informatique']","['Région de Paris, France', 'Région de Paris, France', 'Région de Paris, France', 'Préfecture de Casablanca, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco']"
+15,"['IBM interactive', 'IBM']","['Région de Paris, France', 'Région de Lille, France', 'Région de Toulouse, France', 'Rabat, Maroc']"
+16,"['SQLI', 'Microsoft']","['Paris Area, France', 'Paris', 'Microsoft North Africa', 'Microsoft North Africa']"
+17,"['Microsoft\n        Full-time', 'Pictet Technologies SA\n        Full-time', 'Digimind', 'Capgemini']","['Oslo, Norway', 'Luxembourg', 'Rabat']"
+18,"['CBI', 'Nelite North Africa', 'SUPINFO', 'Microdata']","['Casablanca', 'Casablanca et périphérie', 'Casablanca', 'Casablanca', 'Casablanca', 'Casablanca  / Rabat']"
+19,"['Amazon\n        Full-time', 'Apogee, Inc.\n        Full-time', 'VersaSuite The Adaptive HIS/EHR/EPM/ERP Solution']","['Austin, Texas Metropolitan Area', 'Austin, Texas Area', 'Austin, Texas Area', 'Computer science Professor', 'Rabat']"
+20,"['Dynamo Mobile Accelerator', 'Seamless Payments AB']","['Stockholm, Stockholm County, Sweden', 'Stockholm, Sverige', 'Stockholm, Suède', 'Stockholm, Suède']"
+21,"['Royal Air Maroc\n        Full-time', 'Béricolor S.A\n        Full-time', 'Archytas Conseil\n        Full-time', 'Self-employed', 'HBN Consulting Maroc\n        Full-time']","['Préfecture de Casablanca, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat, Morocco', 'Rabat Prefecture, Morocco', 'Rabat, Morocco']"
+22,"['Olympiades ENSIAS\n        Part-time', 'Forum GENI ENTREPRISES\n        Part-time', 'Fintech ENSIAS']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+23,"['FARASHA SYSTEMS\n        Internship', 'DXC Technology\n        Internship', 'SQLI\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Salé, Morocco', 'Préfecture de Rabat, Morocco']"
+24,[],[]
+25,[],[]
+26,"['Carnegie Mellon University', 'Al Barid Bank']","['Région de Greater Pittsburgh, États-Unis', 'Rabat']"
+27,"['Payment Center For Africa - PCA', 'Olympiades ENSIAS', 'Gorgov Digital advertising agency\n        Internship']","['Le Caire, Égypte']"
+28,['DATAINSIGHT SERVICES\n        Internship'],[]
+29,"['FARASHA SYSTEMS\n        Internship', 'OCP SA']","['Préfecture de Rabat, Morocco', 'Province d’El Jadida, Morocco']"
+30,[],[]
+31,"['DXC Technology\n        Internship', 'D&A\n        Internship', 'Agence du Bassin Hydraulique de Draa OuedNoun']","['Rabat et périphérie', 'Casablanca, Maroc', 'Province de Guelmim, Morocco']"
+32,"['Capgemini\n        Full-time', 'Caisse Centrale de Garantie', 'Digimind', 'Sofrecom']","['Préfecture de Rabat, Morocco', 'Rabat', 'Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+33,"['M2M Group\n        Full-time', 'NCR Corporation', 'CFG Bank', 'SANAD Assurances', 'Wave Incorporation']","['Casablanca, Casablanca - Settat, Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Skhirat-Témara, Morocco']"
+34,"['Africompetence\n        Internship', 'Econocom\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Salé, Rabat-Salé-Kénitra, Maroc']"
+35,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'INTELLCAP CORPORATION\n        Full-time']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat Metropolitan Area']"
+36,[],[]
+37,"['INGECYS Telecom\n        Internship', 'IEEE ENSIAS STUDENT BRANCH', 'INOVA communication\n        Internship']","['Tanger, Tanger-Tétouan, Morocco']"
+38,"['Société Générale - Africa Technologies & Services\n        Internship', 'Essorline\n        Internship', 'SOFA MAROC\n        Internship']","['Casablanca - Settat, Maroc', 'Rabat, Rabat - Salé - Kénitra, Maroc', 'Casablanca - Settat, Maroc']"
+39,"[""Conseil de la communauté marocaine à l'étranger\n        Internship""]","['الرباط, Rabat-Salé-Kenitra, Morocco']"
+40,"['Société Générale - Africa Technologies & Services\n        Internship', 'ARES\n        Internship', 'ASSOCIATION DES ÉLÈVES INGÉNIEURS', 'Office National des Chemins de Fer (ONCF)\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco']"
+41,"['TEDxENSIAS', 'Groupe Timar']",[]
+42,"['iA Financial Group (Industrial Alliance)', 'Université de Sherbrooke', 'Ménara Holding', 'Smart Geo Apps']","['Québec, Canada', 'Sherbrooke, Québec', 'Marrakech Prefecture, Morocco', 'Marrakech, Marrakech-Tensift-Al Haouz, Morocco']"
+43,[],[]
+44,"['Greenfields development', 'Attijariwafa bank', 'MyAppConverter LTD', 'Casa Prestations', 'Caisse de Dépôt et de Gestion']","['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'London, Royaume-Uni', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+45,"['Silicon Labs\n        Permanent', 'Silicon Labs\n        Internship', 'STMicroelectronics France\n        Part-time', 'Office National des Chemins de Fer (ONCF)\n        Internship', 'Lear Corporation']","['Rennes, Brittany, France', 'Rennes, Bretagne, France', 'Le Mans Area, France', 'Préfecture de Rabat, Morocco', 'Technopolis,Rabat']"
+46,[],[]
+47,"['Adverthing GmbH', 'OCP S.A\n        Internship', 'Office National des Chemins de Fer (ONCF)\n        Internship', 'ENACTUS ENSIAS']","['Germany - HomeOffice', 'el jorf lasfar', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+48,[],[]
+49,[],[]
+50,"['CDG Capital\n        Freelance', 'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research\n        Contract', 'mosaiclab.io\n        Full-time', 'ENSIAS\n        Internship']","['Rabat, Morocco', 'Rabat Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+51,"['Adria Business & Technology\n        Internship', 'DIGI4\n        Internship', 'Al Barid Bank']","['Casablanca-Settat, Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+52,"['Faculté des sciences de Rabat\n        Full-time', 'Faculty Of Science - Mohamed V University\n        Full-time']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat-Salé-Kénitra, Maroc']"
+53,"['Olympiades ENSIAS\n        Full-time', 'FST Settat\n        Internship', ""Direction Régional de l'Equipement, du Transport et de la Logistique \n        Internship"", 'AREF LAAYOUNE\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Maroc', 'Laâyoune - Sakia El Hamra, Maroc', 'Laâyoune-Sakia El Hamra, Maroc']"
+54,"['Banque Centrale Populaire - BCP\n        Internship', 'Wafa Assurance', 'CALLIGRAPHY PRINT']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Casablanca, Morocco']"
+55,"['Axelink Maroc', 'Ericsson', 'Ministère d’Economie et de Finance', 'Maroc Modis (Triumph)']","['Casablanca, Grand Casablanca, Morocco', 'Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Fès, Morocco']"
+56,[],"['Préfecture de Rabat, Morocco', 'rabat']"
+57,"['Jaouad.ma\n        Internship', 'Freelance', 'Université Internationale de Rabat\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+58,"['ENSIAS IT Club', 'Olympiades ENSIAS', 'Groupe ÉLÉPHANT VERT\n        Internship']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Meknes, Fès-Meknès, Morocco']"
+59,[],[]
+60,[],[]
+61,"['Huawei', 'Ministry of Finance and Administrative Reform \n        Internship']","['Grenoble, Auvergne-Rhône-Alpes, France', 'Rabat, Morocco']"
+62,"['Arval BNP Paribas Group\n        Full-time', 'INGENIANCE\n        Permanent', 'Atos', 'Bold Data']","['Paris Area, France', 'Paris Area, France', 'Paris Area, France', 'Paris, Île-de-France, France', 'Échirolles']"
+63,[],[]
+64,[],[]
+65,"['University of Maryland', 'IBM', 'Maroc Telecom']","['San Francisco Bay Area', 'San Francisco Bay Area', 'College Park, MD, USA', 'Yorktown Heights, NY, USA', 'Rabat, Morocco']"
+66,"['Société Générale African Business Services\n        Full-time', 'Banque Populaire du Maroc (Groupe) Inc', 'Payment Center For Africa - PCA', 'OCP SA']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Casablanca', 'Province de Khouribga, Morocco']"
+67,"['inwi\n        Full-time', 'EY\n        Internship', 'IT6 Consulting\n        Internship', 'OCP S.A\n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+68,['Freelance'],"['Rabat, Rabat-Salé-Kenitra, Morocco']"
+69,[],[]
+70,"['Université du Québec à Rimouski\n        Internship', 'Softlock\n        Internship']","['Québec, Canada', 'Le Caire, Égypte']"
+71,"[""Centre d'excellence en technologie de l'information (ceit)"", 'Centre culturel Abdelouahed el Kadiri \n        Internship']","['Maroc, Casablanca', 'Maroc']"
+72,"['Talan', 'Natixis', 'SNCF Réseau', 'BNP Paribas Asset Management', 'LISI AEROSPACE']","['Région de Paris, France', 'Ville de Paris, Île-de-France, France', 'Région de Saint-Denis, France', 'Région de Paris, France', 'Région de Paris, France']"
+73,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS""]","['rabat, maroc']"
+74,[],[]
+75,['Auto Hall\n        Internship'],"['Préfecture de Rabat, Morocco']"
+76,"['COLAS DIGITAL SOLUTIONS\n        Full-time', 'IRIT (Institut de Recherche en Informatique de Toulouse)', 'ALXYR CONSULTING', 'Office National des Chemins de Fer (ONCF)']","['Toulouse, Occitanie, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+77,"['OCP S.A', 'Caisse de Dépôt et de Gestion', 'SKATYS, Partenaire SAP Maroc', 'Integrytis', 'Capital Consulting (Strategy | Management | Technology)']","['Casablanca', 'Rabat', 'Casablanca', 'Préfecture de Casablanca, Morocco', 'Casablanca']"
+78,"['Deloitte', 'Banque Populaire du Maroc (Groupe) Inc', 'LMPS Group', 'MARJANE HOLDING']","['Casablanca, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+79,"['Bank Of Africa\n        Permanent', 'Login Sécurité\n        Internship', 'PIMAN 2.0', 'NEOXIA']","['Casablanca, Casablanca-Settat, Morocco', 'Saint-Cloud, Île-de-France, France', 'Région de Paris, France', 'Préfecture de Casablanca, Morocco']"
+80,[],[]
+81,"['OCP SA\n        Internship', 'public administration\n        Internship']","['Maroc', 'Maroc']"
+82,"['IEEE ENSIAS STUDENT BRANCH\n        Part-time', 'ONEE-Branche Eau\n        Internship']","['Guelmim-Oued Noun, Maroc']"
+83,"['The Coding Machine\n        Internship', 'Hager Group\n        Internship', 'Clean Cup', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'CHU FES\n        Internship']","['Ville de Paris, Île-de-France, France', 'Paris', 'Valence, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Fès, Morocco']"
+84,"['DXC Technology Maroc\n        Internship', 'University of Houston\n        Internship', 'ANCFC', 'Atelier de Mécanique de FST de Tanger']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Houston, United State', 'Préfecture de Rabat, Morocco', 'Tanger,Maroc']"
+85,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'Self-employed', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'fintic\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Agadir, Souss-Massa, Maroc']"
+86,"['Capgemini\n        Freelance', 'IT-NewVision SAS\n        Freelance', 'Payment Center For Africa - PCA\n        Full-time', 'Digimind\n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Casablanca, Morocco', 'Casablanca, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+87,[],[]
+88,"['Olympiades ENSIAS', 'Forum GENI Entreprises', 'Access Program', 'iEARN-USA - International Education and Resource Network']",[]
+89,"['RFC Digital\n        Full-time', 'INVOLYS\n        Full-time', 'Thales', 'Sodreyas']","['Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+90,"['Sofrecom Services Maroc', 'ONEE-Branche Eau']","['Préfecture de Salé, Morocco', 'Préfecture de Rabat, Morocco']"
+91,"['EdifiXio\n        Internship', 'Parlement - Chambre des conseillers']","['Levallois-Perret, Île-de-France, France', 'Préfecture de Rabat, Morocco']"
+92,"['Société Générale African Business Services\n        Internship', ""Conseil de la communauté marocaine à l'étranger CCME\n        Internship"", 'Morocco Postal Service (Barid Al-Maghrib) \n        Internship']","['Casablanca et périphérie', 'Rabat, Morocco', 'Rabat, Morocco']"
+93,"['Université Internationale de Rabat\n        Full-time', 'Université Internationale de Rabat\n        Internship']",[]
+94,"['IUT Blagnac', 'Université de Toulouse-Le Mirail', 'Netfective Technology', 'Netfective Technology', 'COMPUTIME SARL']","['Toulouse Area, France', 'Toulouse Area, France']"
+95,[],[]
+96,"['Payment Center For Africa - PCA', 'Avito.ma', '3GCOM', 'MINISTERE DE LA COMMUNICATION', ""Office national de l'electricité et de l'eau potable - Branche Electricité""]","['Casablanca, Grand Casablanca, Morocco', 'Casablanca', 'Rabat', 'Marrakech']"
+97,"['ELECTRONIC SERVICE PROVIDERS (ESPR)', 'ARDI Foundation - Crédit Agricole', 'National Office for Electricity and Potable Water']","['Rabat, Morocco', 'Rabat, Rabat-Sale, Morocco', 'Casablanca, Morocco', 'Skhirat-Temara, Morocco', 'Casablanca, Morocco']"
+98,[],[]
+99,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Full-time"", 'Capgemini\n        Full-time', 'Acticall Maro\n        Full-time', 'Administration des Douanes et Impôts Indirects', ""Centre Régional d'Investissement Meknès""]","['Casablanca et périphérie', 'Casablanca et périphérie', 'Meknès']"
+100,"['CNRS - Centre national de la recherche scientifique\n        Full-time', 'Ortix\n        Internship', 'Attijariwafa bank']","['Lille, Hauts-de-France, France', 'Région de Paris, France', 'Préfecture de Casablanca, Morocco']"
+101,[],[]
+102,"['SIWAY - Transformation Digitale\n        Full-time', 'Accenture\n        Internship', 'D&A TECHNOLOGIES\n        Internship', 'Ministère de la Culture Maroc']","['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Meknès Prefecture, Morocco', 'Rabat']"
+103,"['IEEE ENSIAS STUDENT BRANCH', 'HACA\n        Internship']","['Rabat, Morocco', 'Rabat, Rabat-Sale, Morocco']"
+104,"['VARUN BEVERAGES LIMITED\n        Full-time', 'Swissport Maroc \n        Full-time', 'STELIA Aerospace\n        Full-time']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc']"
+105,"['Laboratoire IMS Universite Mohammed V\n        Internship', 'Storactive SSII']","['Rabat, Rabat-Salé-Kénitra, Maroc']"
+106,"['SQLI\n        Internship', 'Groupe Managem\n        Internship', 'BIG4COM\n        Internship']","['Casablanca, Casablanca-Settat, Morocco']"
+107,"['Brussels Research & Innovation Center for Green Technologies (BRING)', 'Avesta Battery & Energy Engineering (ABEE)', 'MOBI VUB', ""Ecole Mohammadia d'Ingénieurs"", 'ADN']","['Brussels, Brussels Region, Belgium', 'Préfecture de Rabat, Morocco']"
+108,"['Centre Hospitalier Universitaire Hassan II\n        Internship', 'Nokia\n        Internship']","['Fès , Maroc', 'Salé, Maroc']"
+109,"['Miratti', 'Kezakoo', 'Attijariwafa bank Egypt', 'Société Générale']","['Casablanca', 'Préfecture de Casablanca, Morocco', 'Cairo Governorate, Egypt', 'Casablanca, Grand Casablanca, Morocco']"
+110,[],[]
+111,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'PRAXIS ICT Consulting\n        Internship']","['Rabat-Salé-Kénitra, Maroc', 'Casablanca, Maroc']"
+112,"['BNP Paribas Securities Services', 'ADNEOM\n        Full-time', 'Fidens\n        Full-time', 'Al Barid Bank', 'Bank Al-Maghrib']","['Ville de Paris, Île-de-France, France', 'Ville de Paris, Île-de-France, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+113,[],[]
+114,"['ALPHANOSOS', 'Chaabi LLD', 'Marsa Maroc']","['Région de Clermont-Ferrand, France', 'casablanca', 'casablanca']"
+115,[],[]
+116,[],[]
+117,"['Societe Generale Corporate and Investment Banking - SGCIB', 'Azur Systems', 'Nevo-Technologies']",['Casablanca']
+118,[],[]
+119,['D3ementia\n        Part-time'],[]
+120,"['Best Deal SARL\n        Internship', 'APP MOBILE Studio\n        Self-employed', 'Ministre de la Culture et de la Communication , Maroc\n        Internship', 'ENACTUS ENSIAS\n        Part-time']","['Marrakech , Maroc', 'Rabat et périphérie', 'Rabat ,Maroc', 'Rabat ,Maroc']"
+121,"['Association Des Elèves Ingénieurs ENSIAS\n        Full-time', 'Legiit\n        Freelance']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+122,"['ENSIAS AI', 'ENSIAS IT Club']","['Rabat', 'Rabat, Maroc']"
+123,"['Akka Technologies\n        Full-time', 'CSI Maroc', 'COMPUTIME SARL']","['Casablanca', 'Préfecture de Mohammédia, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+124,"[""Conseil de la Communauté Marocaine à l'Etranger""]","['Préfecture de Rabat, Morocco']"
+125,[],[]
+126,[],[]
+127,['Devcorp\n        Internship'],"['Casablanca, Morocco', 'Casablanca Prefecture, Morocco']"
+128,"['ENSIAS IT Club', 'Intellcap']","['Rabat Prefecture, Morocco']"
+129,"['DXC Technology\n        Full-time', 'DXC Technology\n        Full-time']","['Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco']"
+130,['ExtramedicXe\n        Internship'],"['Casablanca-Settat, Maroc']"
+131,['Visiativ Africa\n        Internship'],"['Casablanca, Morocco']"
+132,['DigitalAdvisor\n        Part-time'],"['Casablanca, Morocco']"
+133,"['ENSIAS AI\n        Part-time', 'CINDH-ENSIAS(Club d’Initiative Nationale du Développement Humain )\n        Part-time', 'Olympiades ENSIAS\n        Part-time']","['Maroc', 'Maroc', 'Maroc']"
+134,"['Forum GENI Entreprises', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS""]",[]
+135,"['Université Internationale de Rabat', 'Banque Centrale Populaire', 'Ministère de la Justice et des Libertés', 'La Caisse de Dépôt et de Gestion - CDG CAPITAL', 'Office National des Hydrocarbures et des Mines']","['Préfecture de Rabat, Morocco', 'Casablanca', 'Rabat', 'Rabat', 'Rabat']"
+136,"['HackerRank\n        Part-time', 'OCP Group\n        Internship']",['JORF LASFAR']
+137,"['CGI', 'Zodiac Aerospace']","['Région de Strasbourg, France', 'M2i', 'Le Mans, Pays de la Loire, France', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco']"
+138,"['Banque Centrale Populaire - BCP\n        Full-time', 'Banque Centrale Populaire - BCP\n        Internship', 'IntellCap\n        Internship', 'Haut Commissariat au Plan\n        Internship']","['Casablanca-Settat, Morocco', 'Casablanca-Settat, Morocco', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+139,"[""Conseil de la Communauté Marocaine à l'Etranger\n        Internship"", ""Centre régional d'investissement Beni Mellal - Khenifra\n        Internship""]","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat - Salé - Kénitra, Maroc', 'Maroc - Rabat', 'Province de Béni Mellal, Morocco']"
+140,[],[]
+141,[],[]
+142,[],[]
+143,[],[]
+144,"['Infinait Solutions SA\n        Internship', 'Olympiades ENSIAS', 'ENSIAS IT Club']","['Luxembourg', 'Rabat', 'rabat']"
+145,"['D-AIM\n        Full-time', 'Consult Network Market\n        Internship', 'Amen Bank\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Remote', 'Rabat-Salé-Kénitra, Maroc', 'Tunis, tunisie']"
+146,"['Allure Systems', 'Shokly\n        Internship', 'Pabete\n        Internship', 'Lesieur Cristal\n        Internship']","['Clichy, Île-de-France, France', 'Région de Paris, France', 'Paris, Île-de-France, France', 'Casablanca']"
+147,[],[]
+148,"['ENACTUS ENSIAS\n        Self-employed', 'Best Afrik\n        Internship', 'Université Mohammed VI Polytechnique\n        Internship', ""L'Association des jeunes Développeurs\n        Self-employed"", 'PORTNET S.A. ""National Single Window of Foreign Trade""\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Dakar, Sénégal', 'Ben Guerir, Marrakesh-Safi, Maroc', 'Rabat, Maroc', 'Port de Casablanca']"
+149,"['AdelphaTech\n        Internship', 'INTELLCAP SARL\n        Internship', 'Ministry of Finance and Administrative Reform \n        Internship']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Morocco', 'Rabat Prefecture, Morocco']"
+150,"['Amadeus\n        Apprenticeship', 'Hermione\n        Internship', 'SODIBET', 'VIVACE']","['Nice, Provence-Alpes-Côte d’Azur, France', 'Montpellier, Occitanie, France', 'Préfecture de Casablanca, Morocco']"
+151,"['Natixis\n        Full-time', 'ALFIC\n        Full-time', 'INGENIANCE\n        Internship', 'Edifixio\n        Internship', ""Compagnie d'Assurance Transport - CAT\n        Internship""]","['Ville de Paris, Île-de-France, France', 'Puteaux, Île-de-France, France', 'Puteaux, Île-de-France, France', 'Levallois-Perret, Île-de-France, France', 'Casablanca Prefecture, Morocco']"
+152,['Freeray electronics\n        Full-time'],"['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+153,"['OCP SA', 'Wilaya - Agadir']","['Agadir Ida-Outanane, Morocco']"
+154,"['Forum GENI Entreprises', 'INTELLCAP', ""M'dina Bus""]","['Rabat Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+155,['Office National des Chemins de Fer (ONCF)'],"['Préfecture de Rabat, Morocco']"
+156,[],[]
+157,"['Netfective Technology\n        Full-time', 'Salam Gaz S.A.', 'Financial Insight', 'ministère de la communication', 'OMNIXYS']","['Maroc', 'Maroc', 'Maroc', 'Maroc', 'Maroc']"
+158,['IEEE ENSIAS Student Branch'],[]
+159,"['Mabotic', 'University of Houston', 'Involys', 'HOMSYS Maroc']","['Houston, Texas Area', 'Houston, Texas Area', 'Cologne Area, Germany', 'Houston, Texas, U.S.A.', 'Casablanca, Morocco', 'Casablanca, Morocco']"
+160,"['Al Omrane', 'OCP SA', 'ICOZ']",[]
+161,[],[]
+162,"['INSEC ENSIAS', 'ENSIAS IT Club', 'Olympiades ENSIAS', 'ENSIAS AI']","['Maroc', 'Maroc', 'Maroc', 'Maroc']"
+163,"['Société Générale Maroc', 'Payment Center For Africa - PCA', 'Banque Centrale Populaire - BCP']","['Casablanca Prefecture, Morocco', 'Préfecture de Casablanca, Morocco', 'Casablanca']"
+164,"['Matious Digital\n        Internship', 'Direction de la Coopération et du Partenariat\n        Internship', 'Veolia\n        Internship']","['Mohammedia, Casablanca-Settat, Maroc', 'Rabat, Morocco', 'Tétouan, Tanger-Tétouan, Morocco']"
+165,"['Crédit Agricole CIB', 'INGENIANCE\n        Internship', 'BDSI Maroc\n        Internship']","['Ville de Paris, Île-de-France, France', 'Paris, Île-de-France, France', 'Préfecture de Casablanca, Morocco']"
+166,"['Société Générale - Africa Technologies & Services\n        Full-time', 'Detecon International GmbH', 'Groupe Premium', 'CDG Capital']","['Casablanca, Morocco', 'Région de Berlin, Allemagne', 'Casablanca, Grand Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+167,[],[]
+168,"['PM Consulting', 'Nokia Siemens Networks', 'Accenture', 'LogicaCMG', 'Direction Générale des Impôts']",['Morocco']
+169,[],[]
+170,[],[]
+171,[],[]
+172,['HPS'],[]
+173,[],[]
+174,"['Blu Age\n        Full-time', 'Carefie', 'IEEE', 'bonn-rhein-sieg']","['Rabat-Sale, Morocco', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Bad Münstereifel, North Rhine-Westphalia, Germany', 'Bonn Area, Germany']"
+175,['OCP SA'],"['Province d’El Jadida, Morocco']"
+176,"['Acentium\n        Full-time', 'SQLI\n        Internship', 'Novancy One \uf3af', 'Ministery of economy and Finance']","['Boston, Massachusetts, États-Unis', 'Rabat, Rabat-Sale, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+177,[],[]
+178,"['Association Des Elèves Ingénieurs ENSIAS', 'Forum GENI ENTREPRISES', 'Robotics Club ENSIAS', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Full-time"", 'IEEE ENSIAS STUDENT BRANCH']","['Rabat, Rabat-Salé-Kenitra, Morocco']"
+179,"['Leyton\n        Full-time', 'FY COMPUTING', 'ARA Services & Technologies', 'DGAPR\n        Internship']","['Casablanca-Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+180,"['Atos', 'Atos', 'WB&C - Digital Experts', 'Royal Air Maroc', 'Huawei Technologies']","['Toulouse, Midi-Pyrénées, France', 'Toulouse, Midi-Pyrénées, France', 'Préfecture de Casablanca, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat']"
+181,"['OCP SA\n        Internship', 'Intellcap', ""Office national de l'electricité et de l'eau potable - Branche Electricité""]","['préfecture de Casablanca', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco']"
+182,"[""Nell'Armonia\n        Internship"", 'Effyis Partners \n        Internship', 'Ford Motor Company\n        Internship']","['Casablanca et périphérie', 'Casablanca - Settat, Maroc', 'Casablanca, Grand Casablanca, Morocco']"
+183,[],[]
+184,[],[]
+185,"['Delphi', 'RAK', 'R.A.K']","['Casablanca', 'Casablanca, Grand Casablanca, Morocco', 'Province de Kénitra, Morocco', 'Province de Kénitra, Morocco', 'Province de Kénitra, Morocco']"
+186,['RADEEC\n        Internship'],"['Casablanca-Settat, Maroc']"
+187,"[""Ministère du Tourisme et de l'Artisanat\n        Internship""]","['Rabat, Morocco']"
+188,[],[]
+189,"['Wiztivi\n        Internship', 'Royal Air Maroc', 'Opus Networks']","['Région de Nantes, France', 'Préfecture de Casablanca, Morocco']"
+190,"['Haut Commissariat au Plan', 'SKATYS, Partenaire SAP Maroc', 'BCP', ""Département de l'informatique et des méthodes - Ministère de la Santé Publique Maroc"", 'Ménara Holding']","['Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Rabat', 'Province d’El Kelaâ des Sraghna, Morocco']"
+191,"['Capgemini\n        Full-time', 'Atos\n        Internship', 'Derhosting \n        Internship', 'Maroc Pro\n        Internship']","['Casablanca, Morocco', 'Rabat, Morocco', 'Fès, Morocco']"
+192,[],[]
+193,"['Banque Centrale Populaire - BCP\n        Full-time', 'Banque Centrale Populaire - BCP\n        Full-time', 'University of Houston\n        Internship', 'Culture Moto']","['Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Casablanca, Morocco', 'Région de Houston, Texas, États-Unis', 'Casablanca, Grand Casablanca, Morocco']"
+194,"['Berexia', 'NOVECIO', 'SCOR', ""Caisse d'Epargne Ile-de-France"", 'APPLIUM']","['Paris Area, France', 'Paris Area, France', 'Paris Area, France', 'Paris Area, France', 'Paris Area, France']"
+195,[],[]
+196,"['PEGASE INFORMATIQUE', 'Accenture', 'SQLI', 'GENERATION NT']","['Préfecture de Rabat, Morocco', 'Casablanca, Morocco', 'Casablanca, Morocco', 'Rabat, Morocco', 'Meknes, Morocco']"
+197,"['Shipinfy\n        Internship', 'Maram-IT\n        Internship', 'CCME\n        Internship']","['Morocco', 'Tanger-Tetouan-Al Hoceima, Morocco', 'Rabat']"
+198,[],[]
+199,"['Forum GENI ENTREPRISES\n        Full-time', 'Olympiades ENSIAS\n        Part-time', 'INSEC ENSIAS\n        Part-time']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+200,"['Tiramisu', 'Scrypt.Media', 'INATBA', 'Huawei Technologies', 'Steria']","['Tallinn, Harjumaa, Estonia', 'Paris Area, France', 'Paris Area, France']"
+201,['Monitrol\n        Full-time'],"['Boucherville, Québec, Canada']"
+202,"['Tata Consultancy Services', 'ENGIE', 'Deloitte', 'Siemens Gamesa']","['Ville de Paris, Île-de-France, France', 'Ville de Paris, Île-de-France, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+203,"['Henceforth\n        Internship', 'Association Des Elèves Ingénieurs ENSIAS\n        Full-time', ""Council of the Moroccan Community Abroad - Conseil de la communauté marocaine à l'étranger (CCME)\n        Full-time"", 'OCP SA\n        Full-time']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Province de Khouribga, Morocco']"
+204,"['Med You in', 'OCP SA']","['Casablanca', 'Province de Khouribga, Morocco']"
+205,"['Best Deal Sarl\n        Internship', 'ONICL\n        Internship']","['Marrakesh-Safi, Maroc']"
+206,['SQLI\n        Internship'],"['Rabat, Morocco']"
+207,"['Audina Maroc\n        Internship', 'GCL Group\n        Internship']","['Casablanca-Settat, Morocco', 'Casablanca Prefecture, Morocco']"
+208,"['TEDxENSIAS', 'INTELLCAP\n        Internship']",[]
+209,"['Centre Mohammed V deuxième chance\n        Part-time', 'CloudLink\n        Full-time', 'Adli Depot\n        Internship', 'Faculty of sciences Rabat\n        Full-time']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'United States', 'Brussels, Brussels Region, Belgium', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+210,"['T-Mining - Blockchain Logistics\n        Full-time', 'Crémaillère du coeur\n        Internship', 'SQLI\n        Internship']","['Antwerp, Flemish Region, Belgium', 'Paris, Île-de-France, France', 'Rabat Prefecture, Morocco']"
+211,"['CGI', ""Neotech Solutions change de nom et adopte l'identité AZEO"", 'Kindy Info Maroc SA', 'ONEE-Branche Eau', 'LIM Solutions']","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Rabat', 'Marrekech']"
+212,"['L’Association Marocaine de la Recherche Opérationnelle et les Sciences du Management - MORMS', 'Siège, Wafa Immobilier', 'Siege Wafa Immobilier,Casablanca']","['Rabat', 'Casablanca - Settat, Maroc', 'Casablanca - Settat, Maroc']"
+213,"['CollectiveCrunch\n        Internship', 'Haut Commissariat au Plan\n        Internship', 'DXC Technology Maroc\n        Internship']","['Espoo, Uusimaa, Finland', 'Rabat-Sale, Morocco', 'Technopolis']"
+214,"['Bureau Veritas Group', 'Devoteam', 'IT6 Consulting', 'IT6 Consulting', ""Wilaya d'Agadir""]","['Région de Paris, France', 'Région de Paris, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco']"
+215,[],[]
+216,"['APRR\n        Apprenticeship', 'Berger-Levrault\n        Internship', 'Autre\n        Freelance', ""Agence des Technologies de l'Information et de la Communication\n        Internship""]","['Saint-Apollinaire, Bourgogne-Franche-Comté, France', 'Montpelier', 'Bamako, Mali']"
+217,"['PLANIART', 'GRIIS - Groupe de recherche interdisciplinaire en informatique de la santé', 'Amendis TANGER']","['Sherbrooke, Québec, Canada', 'Sherbrooke, Québec, Canada', 'Sherbrooke', 'Sherbrooke', 'Préfecture de Tanger-Asilah, Morocco']"
+218,"['SSL247', 'SSL247', 'DataProtect', 'Supratours S.A.']","['Région de Lille, France', 'Région de Lille, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+219,"['Banque Populaire du Maroc (Groupe) Inc\n        Full-time', 'Banque Populaire du Maroc (Groupe) Inc', 'High Integration Company | HIC', 'DBT Services Maroc']","['Préfecture de Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca, Maroc', 'Marrakech, Maroc']"
+220,"['INVOLYS\n        Internship', 'INTELLCAP SARL', 'AXA']","['Casablanca, Morocco', 'Rabat, Morocco', 'El Jadida, Morocco']"
+221,"['iXPath\n        Full-time', 'DIGI4\n        Full-time', 'Masarat App\n        Internship']","['Casablanca, Morocco', 'Temara, Rabat-Sale, Morocco']"
+222,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'Haut Commissariat au Plan\n        Internship', 'OCP SA\n        Internship']","['Rabat, Rabat - Salé - Kénitra, Maroc', 'Laâyoune, Sahara Occidental, Maroc', 'Maroc']"
+223,"['Berexia\n        Internship', 'Mahkamaty - محكمتي\n        Internship', 'SmartGeo\n        Internship']","['Préfecture de Marrakech, Morocco']"
+224,[],[]
+225,"['Computime\n        Internship', 'STM Tanger\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Tanger-Tetouan-Al Hoceima, Maroc']"
+226,['HOMSYS Maroc\n        Full-time'],"['Casablanca, Morocco']"
+227,"['Netfective Technology\n        Internship', 'ENSIAS AI', 'ENSIAS BRIDGE', 'Caisse marocaine des retraites\n        Internship', 'ONEE-Branche Eau\n        Internship']","['Rabat Prefecture, Morocco internship', 'Province de Khémisset, Morocco']"
+228,[],[]
+229,"['Université Internationale de Rabat\n        Internship', 'Tangier Leadership Program', 'Moroccan Youth Social Entrepreneurs Camp', 'E-nitiate']","['Salé, Rabat-Salé-Kenitra, Morocco', 'Préfecture de Tanger-Asilah, Morocco', 'Préfecture de Rabat, Morocco', 'Province d’Ifrane, Morocco']"
+230,[],[]
+231,[],[]
+232,"['Géolane\n        Permanent', 'Skopai', 'Henceforth\n        Internship', 'M. Inter Gomme']","['Vanves, Île-de-France, France', 'Région de Grenoble, France', 'Préfecture de Rabat, Morocco', 'Meknès, Morocco']"
+233,"['Société Générale - Africa Technologies & Services\n        Internship', 'Poste Maroc (Barid Al-Maghrib)', 'Poste Maroc (Barid Al-Maghrib)\n        Internship']","['Maroc', 'Rabat, Morocco', 'Rabat, Morocco']"
+234,['Faculté des Sciences Semlalia Marrakech\n        Internship'],"['Marrakech Prefecture, Morocco']"
+235,['Iglovely.com\n        Self-employed'],[]
+236,[],[]
+237,"['CSF\n        Internship', 'Inconso', 'BIRJEVITECH SARL']","['Montpellier, Occitanie, France', 'Morocco', 'Casablanca Prefecture, Morocco', 'Morocco']"
+238,[],[]
+239,"['AGENCE 79\n        Internship', 'Centre Ingénierie et Santé (CIS) & CHU Saint-Etienne\n        Internship', 'Eramet\n        Internship', 'ORH Groupe\n        Internship']","['Paris, Île-de-France, France', 'Région de Saint-Étienne, France', 'Région de Saint-Étienne, France', 'Casablanca, Morocco']"
+240,[],[]
+241,[],[]
+242,"['Poste Maroc (Barid Al-Maghrib)', 'Office National des Chemins de Fer (ONCF)']","['Préfecture de Rabat, Morocco', 'Rabat']"
+243,"['Carrefour', 'PayLogic\n        Internship', 'AFD Tech\n        Internship']","['Toulouse, Occitanie, France', 'Toulouse, Occitanie, France', 'Rabat-Salé-Kénitra, Maroc']"
+244,"['IRIT (Institut de Recherche en Informatique de Toulouse)\n        Internship', 'OCP SA\n        Internship']","['Toulouse, Occitanie, France', 'Jorf Lasfar, Doukhala-Abda, Morocco']"
+245,[],[]
+246,[],[]
+247,"['Groupe crédit agricole du Maroc\n        Full-time', 'BNP Paribas\n        Full-time', 'Performics']","['Rabat, Morocco', 'BDSI- Casablanca, Morocco', 'Casablanca, Morocco']"
+248,"['Societe Generale Corporate and Investment Banking - SGCIB\n        Full-time', 'Lyxor Asset Management', 'Capgemini', 'CS Communication & Systèmes']","['Paris Area, France', 'Paris Area, France', 'Région de Toulouse, France', 'Région de Toulouse, France']"
+249,[],[]
+250,"['Yves Rocher Maroc \n        Full-time', 'LM RABAT \n        Internship', 'INTELCIA']","['Marrakech, Morocco', 'Rabat, Rabat-Sale, Morocco', 'Rabat Prefecture, Morocco']"
+251,"['FLSmidth', 'Administration des douanes et des impots indirects']","['Préfecture de Casablanca, Morocco', 'Casablanca', 'Préfecture de Casablanca, Morocco', 'Maroc', 'Préfecture de Casablanca, Morocco']"
+252,['REDAL SA\n        Internship'],"['Préfecture de Rabat, Morocco']"
+253,[],[]
+254,['Institut Africain des Fintechs\n        Internship'],[]
+255,"['ALIS\n        Full-time', 'Keenturtle', 'A+ TRAITEMENT', 'OCP SA', 'Marsa Maroc']","['Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Safi, Doukhala-Abda, Morocco', 'Safi, Doukhala-Abda, Morocco']"
+256,"['INTELLCAP \n        Internship', 'Olympiades ENSIAS']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat - Salé - Kénitra, Maroc', 'Rabat, MAROC']"
+257,['Groupe Managem'],"['Préfecture de Marrakech, Morocco']"
+258,"['ENSIAS AI\n        Part-time', 'Olympiades ENSIAS\n        Part-time']",[]
+259,['Hult Prize Foundation'],[]
+260,"['Office National Des Aéroports\n        Internship', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Apprenticeship""]","['Dakhla , Morocco', 'Rabat Prefecture, Morocco']"
+261,"['IENA | Performance Management et Finance Consulting', 'Performics-Cabinet IENA', 'Phone Group']","['Région de Paris, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+262,[],[]
+263,"['Archytas Conseil\n        Full-time', 'Afreeway\n        Full-time', 'Archytas Conseil', 'Soft Centre\n        Internship']","['Rabat-Salé-Kénitra, Maroc', 'Elmaarif, Casablanca-Settat, Morocco', 'Rabat Prefecture, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco']"
+264,"['INTELCIA\n        Internship', 'Hult Prize Morocco', 'Zin Ben Services\n        Internship', 'Mobiblanc\n        Internship', 'Aggrom s.a.r.l.\n        Contract']","['Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Casablanca', 'Préfecture de Casablanca, Morocco', 'Rabat - Salé - Kénitra, Maroc']"
+265,[],[]
+266,"['SFR\n        Internship', 'NEOXIA\n        Internship', 'IBM', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS""]","['Paris, Île-de-France, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+267,[],[]
+268,"['Société Générale African Business Services\n        Full-time', 'Payment Center For Africa - PCA', 'CGI', 'SQLI', 'NOMAC: First National Operation & Maintenance Co. Ltd']","['Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture d’Oujda-Angad, Morocco', 'Province de Ouarzazate, Morocco']"
+269,['Intellcap\n        Internship'],"['Rabat, Rabat-Salé-Kénitra, Maroc']"
+270,"['Safran\n        Internship', 'TechMed\n        Internship', ""Ministère de l'Agriculture, de la Pêche Maritime, du Développement Rural et des Eaux et Forêts\n        Internship""]","['Rabat Metropolitan Area', 'Issy-les-Moulineaux, Île-de-France, France', 'Préfecture de Rabat, Morocco']"
+271,"['SMEEC Partners S.A.R.L\n        Freelance', 'Source Chimiques \n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Nouaceur, Casablanca-Settat, Morocco']"
+272,"['AWLERS\n        Full-time', 'Djembe Communications', 'Azur Systems', 'CFG GROUP', 'DELL']","['Maroc', 'Morocco', 'Morocco']"
+273,[],[]
+274,"['NearSecure', 'MEDLUX']","['Rabat Prefecture, Morocco', 'Préfecture de Salé, Morocco']"
+275,"['PortNet: ""National Single Window of Foreign Trade""\n        Internship', 'PortNet: ""National Single Window of Foreign Trade""\n        Internship', 'Intellcap\n        Internship']","['Casablanca-Settat, Maroc', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Casablanca - Settat, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+276,[],[]
+277,"['Menara let', 'Masen']","['Préfecture de Marrakech, Morocco', 'Préfecture de Rabat, Morocco']"
+278,[],[]
+279,"['Attijariwafa bank\n        Full-time', 'Banque Centrale Populaire - BCP', 'WAFA IMMOBILIER']","['Casablanca', 'Casablanca', 'Casablanca', 'Casablanca', 'Casablanca']"
+280,[],[]
+281,"['Sanofi\n        Apprenticeship', 'Société Générale\n        Internship', 'Safran Electrical & Power\n        Internship']","['Chilly-Mazarin, Île-de-France, France', 'Région de Paris, France', 'Maroc']"
+282,"['Airbus\n        Internship', 'OCP SA\n        Internship', 'Endev SARL\n        Internship']","['Toulouse, Occitanie, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+283,"['Netfective Technology\n        Full-time', 'Gemography (formerly united remote)\n        Internship', 'Henceforth \n        Internship']","['Préfecture de Rabat, Morocco', 'Maroc']"
+284,[],[]
+285,"['Effyis Group\n        Internship', 'ORBIS HOLDING SA\n        Internship', ""Amendis Tanger (Veolia Environnement Maroc), Direction des système d'information""]","['Casablanca, Casablanca-Settat, Maroc', 'Rabat-Salé-Kénitra, Maroc', 'Préfecture de Tanger-Asilah, Morocco']"
+286,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Full-time""]","['Rabat-Salé-Kenitra, Morocco']"
+287,"['University of Houston Natural Sciences & Mathematics', 'Facebook\n        Full-time', 'Facebook\n        Full-time', 'University of Houston', 'Algo Consulting Group']","['Houston, Texas', 'Menlo Park, California (Remote)', 'Menlo Park, California', 'Houston, Texas', 'Rabat, Morocco']"
+288,['Centre Hospitalier Universitaire Hassan II'],"['Préfecture de Fès, Morocco']"
+289,"['Intovoice\n        Full-time', 'Codelogic\n        Full-time', 'Devinweb\n        Full-time', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship""]","['Tanger - Tétouan - Al Hoceima, Maroc', 'Rabat', 'Rabat']"
+290,[],[]
+291,['Intellcap SARL\n        Internship'],"['Rabat,Morocco']"
+292,"['HiiT Co\n        Full-time', 'ECODEXIA\n        Full-time', 'Loboratoire ADMIR\n        Internship']","['Casablanca-Settat, Maroc', 'Casablanca-Settat, Maroc', 'Rabat-Salé-Kénitra, Maroc']"
+293,"['VISEO\n        Internship', 'PLARUCE Engineering\n        Internship', 'ProCheck\n        Internship']","['Casablanca', 'Casablanca, Casablanca-Settat, Maroc', 'Morocco']"
+294,"['Fachhochschule Kiel\n        Internship', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'Devpart \n        Freelance']","['Kiel, Allemagne', 'Rabat, Morocco', 'Rabat, Morocc', 'Casablanca, Morocco']"
+295,[],[]
+296,"['Université Laval', 'Desjardins\n        Internship', ""Ministère de l'économie et des Finances\n        Internship"", 'Haut Commissariat au Plan']","['Québec City, Quebec, Canada', 'Montreal, Quebec, Canada', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+297,"['Henceforth\n        Internship', 'Skiliks\n        Internship', 'AKALEE\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc']"
+298,[],[]
+299,[],[]
+300,[],[]
+301,"['CCME', 'Olympiades ENSIAS', 'Payment Center For Africa - PCA\n        Internship']","['Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Casablanca , Maroc']"
+302,[],[]
+303,"['HultPrize ENSIAS\n        Part-time', 'Hult Prize ENSIAS\n        Part-time']","['Rabat', 'Rabat Prefecture, Morocco']"
+304,"['BNP Paribas Securities Services', 'BNP Paribas Securities Services', 'Centre Ingénieurie et santé', 'Académie régionale Rabat-Salé-Kénitra', 'Avito']","['Île-de-France', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco']"
+305,"['OCP Maintenance Solutions\n        Internship', 'U.S. Department of State\n        Internship', 'Ministère de l’Economie, des Finances et de la Réforme de l’Administration\n        Internship']","['Préfecture de Rabat, Morocco', 'Rabat Prefecture, Morocco']"
+306,[],[]
+307,"['Smarteez - Digital factory', 'Helianta Robotics', 'Gfi world', 'INPT']","['Casablanca - Settat, Maroc', 'Rabat - Salé - Kénitra, Maroc', 'Casablanca - Settat, Maroc', 'Préfecture de Rabat, Morocco']"
+308,[],[]
+309,[],[]
+310,[],[]
+311,"[""Ministère de l'économie et des Finances"", 'Omnidata', 'Omnidata', 'MedZ']","['Rabat, Rabat - Salé - Kénitra, Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Rabat, Maroc']"
+312,"['Robank Hood\n        Full-time', 'Robank Hood', 'Vision Business Consulting', 'Haute autorité de la communication audiovisuelle']","['Nantes Area, France', 'Nantes Area, France', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+313,"['Pixair\n        Internship', 'Future Vision Association\n        Internship', 'ENOVA R&T']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Rabat, Morocco']"
+314,"['SEVEN', 'Self employed']","['Casablanca - Settat, Maroc', 'rabat']"
+315,[],[]
+316,[],[]
+317,"['Confidential\n        Full-time', 'M2M Group', 'Sofrecom', 'Groupe IB MAROC']","['Casablanca, Casablanca-Settat, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+318,"['Netfective Technology\n        Permanent', 'Schneider Electric\n        Internship', 'SQLI\n        Internship', 'Trésorerie Générale du Royaume']","['Bordeaux, Nouvelle-Aquitaine, France', 'Grenoble, Auvergne-Rhone-Alpes, France', 'Rabat Prefecture, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+319,[],[]
+320,"[""ENSIAS lab's"", 'Lesieur', 'Lydec']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc']"
+321,[],[]
+322,"['Altran\n        Internship', 'Mahkamaty - محكمتي', 'TCreative']","['Paris, Île-de-France, France', 'Fès Prefecture, Morocco']"
+323,"['Société Générale - Africa Technologies & Services\n        Internship', 'MAGHREB ARABE PRESSE AGENCE MAROCAINE DE PRESSE', 'Ministère de l’Equipement, du Transport, de la Logistique et de l’Eau']","['Casablanca, Casablanca-Settat, Maroc', 'Rabat Prefecture, Morocco', 'Préfecture de Rabat, Morocco']"
+324,"['Mobiblanc\n        Full-time', 'Vision Business Consulting\n        Full-time', 'OCP SA\n        Full-time', 'Opentech', 'Origine REM']","['Casablanca', 'Casablanca', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+325,"['2Oggle', 'COMPUTIME SARL', ""Régie Autonome Multi-Services d'Agadir (RAMSA)""]","['Agadir/El Aaiún - @2oggle', 'Casablanca/Agadir', 'Agadir/El Aaiún  -  @c2bgen', 'Pessac , France', 'Casablanca', 'Marrakech', 'Agadir']"
+326,"['Z SMART SERVICES \n        Internship', 'SQLI\n        Internship']","['Rabat Prefecture, Morocco']"
+327,"['Societe Generale Corporate and Investment Banking - SGCIB\n        Internship', ""RMA - Royale Marocaine d'Assurance\n        Internship"", 'ONEE-Branche Eau\n        Internship']","['Maroc', 'Casablanca, Morocco', 'Rabat - Salé - Kénitra, Maroc']"
+328,"['Mobiblanc', 'CNESTEN\n        Internship', 'Haut Commissariat au Plan\n        Internship']","['Rabat Prefecture, Morocco', 'Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+329,['MySchool (Cours à domicile) Maroc'],"['Région de Montpellier, France', 'Région de Montpellier, France', 'Rabat, Morocco']"
+330,[],[]
+331,['REDAL SA\n        Internship'],"['Rabat, Rabat-Sale, Morocco']"
+332,['Ministère de la Justice Maroc\n        Internship'],"['Rabat, Rabat-Salé-Kénitra, Maroc']"
+333,"['Quantom\n        Internship', 'IoO_AI\n        Internship']","['Préfecture de Rabat, Morocco']"
+334,['Oritech\n        Internship'],"['Casablanca, Casablanca-Settat, Morocco']"
+335,"['AKUMEN IA (Valyans & AIOX Labs JV)\n        Internship', 'ENOVA R&T\n        Internship']",[]
+336,"['Royal Air Maroc', 'Akka Technologies', 'Accurate', 'Pharmaceutical Institute S.A.', 'Maxtechnologies']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Rabat']"
+337,"['ONEE-Branche Eau', 'Genix Technology Inc']","['Préfecture de Rabat, Morocco', 'Maroc', 'Préfecture de Rabat, Morocco', 'Casablanca Prefecture, Morocco']"
+338,"['SkyUp\n        Freelance', 'Teal Technology Services (IBM & OCP JV)\n        Internship', 'digital schools\n        Internship', 'ANNOUR Technologies\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Morocco', 'Casablanca, Morocco', 'Casablanca, Morocco']"
+339,['Stack service & consulting\n        Internship'],"['Casablanca, Casablanca-Settat, Maroc']"
+340,"['ENSIAS AI', 'Leyton\n        Internship', 'CMR-Caisse Marocaine des retraites']","['Maroc', 'Rabat,Morocco']"
+341,"['Digital Process Tools\n        Internship', 'Liebearth SAS\n        Permanent', 'POLLEN Metrology', 'WINXO\n        Internship', 'Association of young developers']","['Toulouse, Occitanie, France', 'Valence, FRANCE', 'Valence, FRANCE', 'Casablanca, MOROCCO', 'Rabat, MOROCCO']"
+342,"['Sonafa\n        Full-time', 'Jeeb.ma', 'Covirus.ma', 'Hult Prize Foundation']","['Casablanca, Morocco', 'Morocco', 'Rabat-Sale, Morocco', 'Préfecture de Rabat, Morocco']"
+343,"['Buffalo Grill', 'LOBELLIA Conseil - ASTILLIA', 'BURGER KING® France', 'TRIMANE', 'INTELCIA']","['Montrouge, Île-de-France, France', 'Région de Paris, France', 'Région de Paris, France', 'Région de Paris, France', 'Préfecture de Casablanca, Morocco']"
+344,"['Alpha55 Officiel\n        Part-time', 'Alpha55 Officiel\n        Part-time']","['Casablanca, Morocco', 'Casablanca, Morocco']"
+345,"['Office National des Chemins de Fer (ONCF)\n        Internship', 'Lear Corporation', 'TBE MAROC']","['Rabat, Maroc', 'Rabat']"
+346,"['SQLI', ""Ministère de l'Intérieur Maroc""]","['Oujda, L’Oriental, Morocco', 'Rabat Prefecture, Morocco']"
+347,[],[]
+348,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Full-time""]","['Rabat, Rabat-Salé-Kénitra, Maroc']"
+349,"['DXC Technology', 'Sofrecom', 'IMISYB Maroc', 'Pix Informatique']","['Préfecture de Rabat, Morocco', 'Préfecture de Meknès, Morocco', 'Province de Kénitra, Morocco']"
+350,"['ONMT', 'EMC Consulting']","['Helsinki, Southern Finland, Finland', 'Helsinki Area, Finland', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+351,[],[]
+352,[],[]
+353,"['Ensias Information Security Club (INSEC)', 'Digital Advisor \n        Internship']",['Casablanca Metropolitan Area']
+354,"['Fenia', 'Micropole', 'Orange', 'Mairie de Rabat']","['Ville de Paris, Île-de-France, France', 'Paris Area, France', 'Paris Area, France', 'Rabat Prefecture, Morocco']"
+355,"['Netfective Technology\n        Full-time', 'DXC Technology\n        Internship', 'Al Omrane\n        Internship']","['Maroc', 'Rabat, Rabat - Salé - Kénitra, Maroc', 'Province de Béni Mellal, Morocco']"
+356,['HPS\n        Internship'],"['Casablanca, Morocco']"
+357,['Ministère de la Justice Maroc\n        Internship'],"['Rabat, Rabat-Salé-Kénitra, Maroc']"
+358,"['Atos\n        Internship', 'ENSIAS IT Club']","['Échirolles, Auvergne-Rhône-Alpes, France']"
+359,[],[]
+360,"['Forum GENI Entreprises', 'ENACTUS ENSIAS', 'Robotics Club ENSIAS']",[]
+361,"['Artza Technologies - JumpStart\n        Full-time', 'CEGEDIM', 'Algo Consulting Group', 'INFOSAT', 'RAMSA']","['Casablanca - Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco']"
+362,"['Société Générale - Africa Technologies & Services', 'Société Générale - Africa Technologies & Services', 'BMCI Groupe BNP Paribas']","['Casablanca, Grand Casablanca, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+363,"['Wafa Gestion\n        Internship', 'Ministère de l’Equipement, du Transport, de la Logistique et de l’Eau\n        Internship']","['Casablanca, Casablanca - Settat, Maroc', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco']"
+364,"['Lear Corporation', 'Volvo Group', 'CIMENTS BLANCS DU MAROC']","['Casablanca, Morocco', 'Casablanca Prefecture, Morocco', 'Préfecture de Rabat, Morocco', 'Casablanca Prefecture, Morocco', 'Marrakech Prefecture, Morocco']"
+365,[],[]
+366,"['Société Générale - Africa Technologies & Services\n        Internship', 'Invyscode\n        Full-time', 'AGIWISE\n        Internship', 'NOVEC sa\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Agdal Riyad, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+367,"['ENSIAS AI\n        Part-time', 'Ensias Information Security Club (INSEC) \n        Part-time', 'ENSIAS IT Club\n        Part-time']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+368,"['Capgemini\n        Apprenticeship', 'IRIT (Institut de Recherche en Informatique de Toulouse)\n        Internship', 'DXC Technology\n        Internship']","['Clermont-Ferrand, Auvergne-Rhône-Alpes, France', 'Toulouse, Occitanie, France', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco']"
+369,[],[]
+370,"['Ecole Supérieure de Technologie de Casablanca\n        Internship', 'Eaton\n        Internship', 'Lydec\n        Internship']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+371,[],[]
+372,[],[]
+373,"['Sitel', 'BHC & Partners']","['Morocco', 'Morococo']"
+374,[],[]
+375,"['http://datasciencetoday.net', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS""]",['Rabat']
+376,"['Société Générale - Africa Technologies & Services', 'BMCE Capital', 'BMCE Capital', 'Crédit agricole du maroc']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Rabat']"
+377,"['Wafa Gestion\n        Internship', 'CGI']","['Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Rabat, Morocco']"
+378,['Upwork\n        Freelance'],"['Rabat-Sale, Morocco', 'Rabat Prefecture, Morocco', 'Morocco']"
+379,[],[]
+380,['Caciopee \n        Internship'],"['Rabat, Rabat-Salé-Kenitra, Morocco']"
+381,"['CINDH-ENSIAS(Club d’Initiative Nationale du Développement Humain )', 'ENSIAS IT Club', 'Fintech ENSIAS', 'Indépendant']","['Rabat-Salé-Kénitra, Maroc', 'Rabat-Salé-Kénitra, Maroc', 'Rabat-Salé-Kénitra, Maroc']"
+382,['Zakane sarl\n        Internship'],[]
+383,"['Accurate', 'INTELLCAP']","['Casablanca-Settat, Maroc', 'Casablanca-Settat, Maroc', 'Casablanca, Maroc', 'Rabat, Morocco']"
+384,"['FY COMPUTING\n        Full-time', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'Agence Nationale des Ports (ANP) \n        Internship', 'Marsa Maroc\n        Internship']","['Préfecture de Rabat, Morocco', 'Casablanca Prefecture, Morocco']"
+385,"['D&A TECHNOLOGIES\n        Internship', 'rayan center\n        Internship']","['Maroc', 'Maroc']"
+386,"['Forum GENI Entreprises', 'Olympiades ENSIAS']",[]
+387,"['Orange Business Services\n        Internship', 'IT Consulting & Expertise\n        Internship', 'DXC Technology\n        Internship']","['Ville de Paris, Île-de-France, France', 'Ville de Paris, Île-de-France, France', 'Rabat']"
+388,"['IKEA\n        Internship', 'Nokia\n        Internship', 'Ericsson']","['Casablanca et périphérie', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco']"
+389,"['Second World\n        Internship', 'nextwi\n        Internship']",[]
+390,[],[]
+391,"['Banque Centrale Populaire - BCP\n        Internship', 'MORMS\n        Internship', 'NTS Maghreb']","['Casablanca, Casablanca-Settat, Morocco', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat Prefecture, Morocco']"
+392,['Olympiades ENSIAS'],[]
+393,[],[]
+394,"['Forum GENI Entreprises', ""Ministère de l'économie et des Finances\n        Internship""]","['Rabat, Rabat-Sale, Morocco']"
+395,"['Capgemini\n        Internship', 'Payment Center For Africa - PCA', 'Intellcap\n        Internship', 'Office National des Chemins de Fer (ONCF)\n        Internship']","['Paris, Île-de-France, France', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+396,"['Worcester Polytechnic Institute\n        Internship', 'Worcester Polytechnic Institute\n        Internship', 'PORTNET S.A. ""National Single Window of Foreign Trade""\u200b', 'GROUPE OFFICE CHERIFIEN DES PHOSPHATES SA']","['Worcester, MA', 'Worcester , MA', 'Maroc', 'Maroc']"
+397,"['Proxisoft\n        Internship', 'PROXISOFT\n        Apprenticeship', 'SOLVE-TECH\n        Apprenticeship']","['Salé Prefecture, Morocco', 'Salé Prefecture, Morocco']"
+398,"['Attijariwafa bank\n        Full-time', 'Attijariwafa bank', ""chambre de commerce, d'industrie et de services"", 'Poste Maroc (Barid Al Maghrib)', 'Danone']","['Casablanca, Grand Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco', 'Meknès, Meknès-Tafilalet, Morocco', 'Meknès, Meknès-Tafilalet, Morocco', 'Meknès, Meknès-Tafilalet, Morocco']"
+399,"['D3H\n        Full-time', 'ALMAALIME', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'PBXCOM']","['Rabat, Maroc', 'Rabat, Maroc', 'Kénitra,Maroc', 'Kénitra,Maroc', 'Rabat, Maroc', 'Sale,Maroc']"
+400,"['La participative des assurances\n        Internship', 'ITMarket\n        Freelance']","['Marrakesh-Safi, Morocco', 'Marrakesh-Safi, Morocco']"
+401,[],[]
+402,[],[]
+403,[],[]
+404,"['MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research\n        Internship']","['Rabat, Rabat-Salé-Kenitra, Morocco']"
+405,"['NTT DATA Services', 'NAREVA HOLDING', 'Groupe 3 Architectes', 'KRYPTOMANIA - Solutions Informatiques']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Tanger']"
+406,"['3GCOM\n        Internship', 'Devinweb\n        Internship', 'IEEE ENSIAS STUDENT BRANCH']","['Rabat-Salé-Kénitra, Maroc', 'Tanger-Tetouan-Al Hoceima, Maroc']"
+407,"['Neovision\n        Internship', 'MSDA Group - Mohammed VI Polytechnic University \n        Internship', 'Innovation Lab for Operations - UM6P\n        Internship']","['Grenoble, Auvergne-Rhône-Alpes, France']"
+408,"['Trajectoire 3P\n        Internship', 'Jhab-IT\n        Internship']","['Morocco', 'Morocco']"
+409,[],[]
+410,"['INTELLCAP', 'Ministère de l’Economie et des Finances']","['Casablanca, Grand Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'RABAT', 'Ministère de l’Economie et des Finances']"
+411,"['ENSIAS AI', 'Olympiades ENSIAS']",[]
+412,['ONEE-Branche Eau'],"['Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+413,['Olympiades ENSIAS'],[]
+414,['Olympiades ENSIAS'],[]
+415,['Centre for Excellence in Information Technology (CEIT-MOROCCO)'],['Technopark Casablanca']
+416,[],[]
+417,"['Omniconsulting', 'REDAL SA', 'ROYAL JOINT']","['Bengurir', 'Bengurir', 'Rabat Prefecture, Morocco', 'RABAT']"
+418,[],[]
+419,['Fynotec\n        Internship'],"['Région de Toulouse, France', 'Région de Toulouse, France', 'Province de Kénitra, Morocco']"
+420,"['Henceforth\n        Internship', 'MU-Electronics\n        Internship', ""Secrétariat d'Etat chargé de l’artisanat et l’économie sociale""]","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+421,['Modellium\n        Full-time'],"['Rabat-Salé-Kénitra, Morocco']"
+422,['iBoo Technologies'],"['Angers, France']"
+423,[],[]
+424,"['ENNAYA\n        Self-employed', 'HubSpot', 'HAG.Group', 'Forleaders\n        Full-time']","['Rabat, Rabat - Salé - Kénitra, Maroc']"
+425,"['AXA Group Operations\n        Full-time', 'Omniconsulting\n        Internship', 'OCP SA\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Province de Khouribga, Morocco']"
+426,"['Infosat\n        Internship', 'Infosat\n        Internship']","['Agadir, Souss-Massa, Maroc', 'Agadir, Souss-Massa, Maroc']"
+427,"[""Cité de l'innovation - UM5\n        Internship"", 'Intellcap\n        Internship', 'Office National Des Aéroports\n        Internship']","['Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Nouaceur, Grand Casablanca, Morocco']"
+428,"['D&A TECHNOLOGIES', 'Sofrecom Maroc', 'ELECTRONICAL ENGINEERING', 'Electronical Enginneering']","['Casablanca, Casablanca-Settat, Maroc', 'Salé, Rabat - Salé - Kénitra, Maroc', 'Rabat, Morocco', 'Rabat, Morocco']"
+429,['FIL ROUGE Agence Trade Marketing'],"['Région de Paris, France']"
+430,"['McKinsey & Company', 'CEPTON Strategies', 'Natixis']","['Paris 08, Île-de-France, France', 'Paris 08, Île-de-France, France', 'Paris Area, France']"
+431,[],[]
+432,"['BearingPoint', ""L'Oréal"", 'Value Pass Consulting', 'Groupe COSUMAR', 'Agence Nationale des Ports (ANP)']","['Région de Paris, France', 'Région de Paris, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Casablanca']"
+433,['Innovglobal'],[]
+434,"['CSF\n        Internship', 'Birjevitech\n        Internship']","['Agadir Ida-Outanane Prefecture, Morocco', 'Agadir Ida-Outanane Prefecture, Morocco']"
+435,"['AdelphaTech\n        Full-time', 'DXC Technology']","['Préfecture de Rabat, Morocco']"
+436,[],[]
+437,"['Omniconsulting\n        Internship', 'COMPUTIME SARL\n        Internship', 'ADVALIO\n        Internship', 'Royal Air Maroc\n        Internship']","['Casablanca-Settat, Maroc', 'casablanca maroc']"
+438,"['Sanofi', 'Cognizant\n        Full-time', 'NEUFLIZE OBC', 'Orange', 'BRGM']","['Région de Paris, France', 'Région de Paris, France', 'Région de Paris, France', 'Région de Paris, France', 'Orléans, France']"
+439,[],[]
+440,"['Mohammed VI Polytechnic University', 'freeray electronics', 'Préfecture d’Agadir Ida-Outanane, Morocco']","['Maroc', 'Rabat', 'Agadir,Morocco']"
+441,[],[]
+442,"['IEEE ENSIAS STUDENT BRANCH', 'ENSIAS BRIDGE']","['Préfecture de Rabat, Morocco']"
+443,[],[]
+444,"['ScholarHub\n        Full-time', 'SmartOp\n        Full-time', 'FY COMPUTING', 'Masarat App']","['California, United States', 'Rabat Prefecture, Morocco', 'Skhirat-Témara Prefecture, Morocco']"
+445,['Forum GENI ENTREPRISES'],[]
+446,"['IENA | Performance Management et Finance Consulting', 'Accenture', 'MATIS  Aerospace ( Joint-Venture entre Safran Electrical &Power et Boeing )', 'Forum GENI Entreprises', 'Ta3mal Morocco avec MICROSOFT et SILATECH']","['Région de Paris, France', 'Préfecture de Casablanca, Morocco', 'Rabat']"
+447,"['Mohammed VI Polytechnic University', 'OCP SA']","['Ben Guerir, Marrakech - Safi, Maroc', 'El Jadida, Casablanca - Settat, Maroc']"
+448,"['SAS', 'Southern Company', 'IBM', 'Maltem Consulting Group', 'Maroc Telecom']","['North, West and Central Africa', 'Atlanta, Georgia', 'Greater New York City Area', 'Paris Area, France', 'Morocco']"
+449,[],[]
+450,['Forum GENI Entreprises'],[]
+451,[],[]
+452,"['Henceforth\n        Internship', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'Henceforth\n        Internship', 'Moroccan Cyber Security Camp']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Préfecture de Rabat, Morocco', 'Rabat']"
+453,"['Capgemini\n        Internship', 'Innovation Pie Studio\n        Internship', 'Direction de la Météorologie Nationale\n        Internship']","['Casablanca et périphérie', 'Casablanca et périphérie']"
+454,"['ScreenDy\n        Full-time', 'ScreenDy\n        Internship', ""Olf'active\n        Internship""]","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+455,"['University of East London\n        Part-time', 'Green Circle Co\n        Freelance', 'WAFA IMMOBILIER\n        Full-time', 'DataProtect', 'LMPS Group\n        Internship']","['London, England, United Kingdom', 'Amman, Jordan', 'Casablanca - Settat, Maroc', 'Casablanca', 'Casablanca - Settat, Maroc']"
+456,['IEEE Student Branch at ENSIAS'],"['Rabat, Morocco']"
+457,[],[]
+458,[],[]
+459,"['07ZR.com\n        Full-time', 'Expertflow\n        Full-time', 'Kindy Info Maroc SA\n        Full-time']","['Casablanca, Morocco', 'Rabat, Morocco', 'Casablanca, Morocco']"
+460,"['HARMAN International', 'ALTEN MAROC', 'Worcester Polytechnic Institute', 'ENOVA R&T']","['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Fès Prefecture, Morocco', 'United States', 'Préfecture de Rabat, Morocco']"
+461,"['Confidential\n        Internship', 'OMEGA INGENIEROS\n        Internship', 'ALXYR CONSULTING\n        Internship', 'ONEE-Branche Eau\n        Internship']","['Préfecture de Rabat, Morocco', 'Préfecture d’Oujda-Angad, Morocco']"
+462,"['Adria Business & Technology', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS""]","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+463,"['OCTO Technology\n        Internship', 'SisPay\n        Internship', 'H-in-Q (Happiness in Questions)\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Casablanca-Settat, Maroc', 'Casablanca-Settat, Maroc']"
+464,"['TEDxENSIAS', 'Life-Algorithm.com\n        Self-employed', 'Maroc Italie Aluminum\n        Freelance', 'ENSIAS AI', 'STE Centrifugation Agroalimentaire\n        Internship']","['Maroc', 'Morocco', 'Marrakesh, Marrakech, Morocco']"
+465,"['Freelancer.com\n        Freelance', 'TraInvestment\n        Internship', 'INTELCOM S.A\n        Internship', 'Ra\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+466,['INJAZ Al-Maghrib (Junior Achievement Worldwide)'],"['Rabat, Rabat-Salé-Kenitra, Morocco']"
+467,"['everis', 'WB&C - Digital Experts']","['Tétouan, Tanger-Tétouan, Morocco', 'Casablanca, Morocco']"
+468,[],[]
+469,[],[]
+470,"['ENACTUS ENSIAS', 'ENSIAS IT Club', 'INSEC ENSIAS']",[]
+471,"['UM5 \n        Internship', 'CSM MAROC\n        Internship', 'Hightech Payment Systems (HPS) \n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc']"
+472,"['Mchain\n        Internship', 'Ministry of education Morocco \n        Internship']","['Rabat, Morocco']"
+473,"['Bank Al-Maghrib\n        Internship', 'Trésorerie Générale du Royaume\n        Internship', 'Centre National pour la Recherche Scientifique et Technique (CNRST)\n        Internship']","['Casablanca - Settat, Maroc', 'Casablanca', 'Casablanca - Settat, Maroc', 'Casablanca - Settat, Maroc', 'Rabat', 'Rabat', 'Rabat']"
+474,[],[]
+475,"['Netfective Technology\n        Full-time', 'Office National des Chemins de Fer (ONCF)\n        Internship', ""Office national de l'electricité et de l'eau potable - Branche Electricité\n        Internship"", 'Office des Changes \n        Internship']","['Rabat et périphérie', 'Rabat, Rabat - Salé - Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+476,"['FARASHA SYSTEMS\n        Internship', 'INTELLCAP SARL\n        Internship', 'FAAR']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'ENSIAS, Madinat Al Irfane, Rabat']"
+477,"['Vialma\n        Full-time', 'Self-employed', 'DataGalaxy\n        Internship', 'Mozilla\n        Apprenticeship', 'BMCI Groupe BNP Paribas\n        Internship']","['Remote', 'Lyon Area, France', 'Rabat Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+478,['New Dev Maroc\n        Internship'],"['Fès - Meknès, Marpc']"
+479,"['OCP Group', 'Faculty of Sciences, Chouaib Doukkali University', 'Faculty of Sciences, Chouaib Doukkali University']","['El Jadida, Casablanca-Settat, Morocco', 'El-Jadida, Casablanca-Settat, Maroc', 'El Jadida, Casablanca-Settat, Maroc']"
+480,"['NEOSYS', 'Al Omrane', 'Forum GENI Entreprises']","['Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+481,"['Confidential', 'Teal Technology Services (IBM & OCP JV)', 'Payment Center For Africa - PCA']",[]
+482,"['K1_W4L0', 'Henceforth\n        Internship', 'INSEC Club']","['Rabat, Rabat-Salé-Kenitra, Morocco']"
+483,"['IBM\n        Internship', 'EXPLOROC\n        Internship', 'IntellCap\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'France', 'Agdal, Rabat']"
+484,"['Besedo\n        Internship', 'M2T SA\n        Contract', 'Intellcap', 'ADIAS - IT Solutions & Services']","['Paris, Île-de-France, France', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+485,['AdelphaTech\n        Internship'],"['Témara, Rabat-Salé-Kénitra, Maroc']"
+486,"['Precision koper\n        Internship', 'OCP \n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'El Jadida, Casablanca-Settat, Morocco']"
+487,[],[]
+488,[],[]
+489,"['PLARUCE Engineering\n        Internship', 'Fujikura Automotive Morocco\n        Internship']","['Casablanca, Casablanca - Settat, Maroc', 'Kénitra,Maroc']"
+490,"['AccelCity\n        Internship', 'SAVOY LE GRAND HOTEL MARRAKECH\n        Internship']","['Maroc', 'Marrakesh-Safi, Maroc']"
+491,['KOMPASSit\n        Internship'],"['Rabat - Salé - Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Ifrane, Meknès-Tafilalet, Morocco']"
+492,[],[]
+493,['RZ BUSINESS'],['47 Bd Lalla Yacout 5 Eme Etage - Casablanca']
+494,['ITOM\n        Part-time'],"['Casablanca, Casablanca-Settat, Morocco']"
+495,"['mooveat.co\n        Internship', 'Archos Technology', 'FARASHA SYSTEMS']","['Paris, Île-de-France, France', 'Casablanca Prefecture, Morocco', 'Rabat, Morocco']"
+496,[],[]
+497,"['Berexia\n        Full-time', ""Fondation de Recherche de Développement et d'Innovation en Sciences \n        Full-time"", 'Affricall Center', 'Marsa Maroc\n        Internship', 'Higher School of Technology']","['Khouribga Province, Beni Mellal - Khenifra, Morocco', 'Casablanca, Morocco', 'Rabat hassan', 'Préfecture de Casablanca, Morocco', 'Safi']"
+498,"['ARTCOUSTIC SARL', 'WEBIMA\n        Internship']","['Casablanca, Casablanca-Settat, Maroc']"
+499,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'Henceforth\n        Internship', 'RADEEO']","['Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture d’Oujda-Angad, Morocco']"
+500,"['Société Générale - Africa Technologies & Services\n        Internship', 'Intellcap\n        Internship', 'OCP SA']","['Casablanca - Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Province de Safi, Morocco']"
+501,"['Banque Centrale Populaire - BCP', 'Marsa Maroc', '2M TV', 'Air France', 'Delta solutions']",[]
+502,"['Banque Centrale Populaire - BCP\n        Internship', 'Haut Commissariat au Plan\n        Internship', 'OCP S.A\n        Internship']","['Casablanca, Morocco', 'Laâyoune, Laâyoune-Boujdour-Sakia el Hamra, Morocco']"
+503,"['Association Des Elèves Ingénieurs ENSIAS\n        Full-time', 'INSEC ENSIAS\n        Full-time']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+504,"['Dial Technologies\n        Internship', 'ADIAS - IT Solutions & Services\n        Internship', 'Les conserves de Meknès - Aicha\n        Internship']","['Casablanca - Settat, Maroc', 'Maroc', 'Maroc']"
+505,"['INVOLYS', 'Banque Centrale Populaire - BCP', 'Groupe CASAGRAINS (Casagrains, S.N.EDDIK)']","['Casablanca - Settat, Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+506,[],[]
+507,"['INRA\n        Internship', 'Bibliothèque Nationale du Royaume du Maroc\n        Internship']","['Clermont-Ferrand Area, France', 'Montpellier Area, France', 'Rabat', 'Rabat', 'Rabat Prefecture, Morocco']"
+508,"['University of Quebec\n        Internship', 'Softlock\n        Internship']","['Montreal, Quebec, Canada', 'Cairo, Egypt']"
+509,"['TNA CONSULTING sarl\n        Full-time', 'IEEE', 'Société Générale - Africa Technologies & Services\n        Internship', 'OCP SA\n        Internship', 'Scale\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+510,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'Ibn Sina Hospital\n        Internship', 'Ecole Supérieure de Technologie de Salé\n        Internship']","['Rabat, Rabat-Sale, Morocco', 'Rabat, Rabat-Sale, Morocco']"
+511,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS""]","['Rabat, Rabat-Salé-Kénitra, Maroc']"
+512,['Intellcap\n        Internship'],"['Rabat-Salé-Kénitra, Morocco']"
+513,[],[]
+514,[],[]
+515,[],[]
+516,"['Capgemini', 'Harmony Technology\n        Internship', 'Intellcap\n        Internship', 'NetDEV\n        Internship']","['Maroc', 'Préfecture de Rabat, Morocco', 'Maroc Marrakech']"
+517,['ENSIAS\n        Full-time'],"['Rabat-Sale, Morocco']"
+518,"['Adservio IT Quality Experts', 'CANAL+ Group\n        Full-time', 'Banque Populaire du Maroc (Groupe) Inc\n        Full-time', 'Banque Populaire du Maroc (Groupe) Inc']","['Région de Paris, France', 'Région de Paris, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+519,['Olympiades ENSIAS'],"['Préfecture de Rabat, Morocco']"
+520,"['EdifiXio\n        Internship', 'Hult Prize Foundation', 'Logima SARL']","['Grenoble, Auvergne-Rhône-Alpes, France', 'Préfecture de Rabat, Morocco', 'Préfecture d’Oujda-Angad, Morocco']"
+521,"['AXA Assurance Maroc', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'Le Campus Universitaire de Transfert de Technologies et d’Expertise']","['Préfecture de Casablanca, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca, Morocco', 'Rabat', 'Oujda']"
+522,"['IDEMIA\n        Full-time', 'AEVAweb', 'IT PROJECT', 'ESVITECH', 'StorTIC']","['Maroc', 'Maroc', 'Maroc', 'Région de Paris, France']"
+523,"['Teymz', 'OCTO Technology\n        Full-time', 'Adria Business & Technology', 'OCTO Technology', 'DOCAPOSTE']","['Ottawa, Canada Area', 'Morocco', 'Casablanca Prefecture, Morocco', 'Morocco', 'Morocco, France']"
+524,"['Al Barid Bank', 'FLSmidth', 'OCP SA']","['Rabat-Salé-Kénitra, Maroc', 'Rabat - Salé - Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Province d’El Jadida, Morocco', 'Province d’El Jadida, Morocco']"
+525,"['Capgemini\n        Full-time', 'Groupe PSA\n        Internship', 'SNTL Group\n        Internship', 'BS-INGENIERIE\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+526,"['Lear Corporation\n        Internship', 'OCP SA\n        Internship']","['Maroc', 'Jorf Lasfar, EL Jadida, Maroc']"
+527,[],[]
+528,['RADEETA\n        Internship'],['Maroc']
+529,"['NeuroDeRisk Consortium', 'CNRS - Centre national de la recherche scientifique', 'Capgemini', 'Novancy One | Recruitment & Executive Search']","['European Union acting from France', 'Région de Paris, France', 'Casablanca']"
+530,[],[]
+531,"['Henceforth\n        Internship', 'ADIAS - IT Solutions & Services\n        Internship', 'Dekkaki Allal agricole\n        Internship']","['Hay Riyad, Rabat-Salé-Kénitra, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Errachidia, Drâa-Tafilalet, Maroc']"
+532,"['Essorline', 'ONEE-Branche Eau']","['Casablanca-Settat, Maroc', 'Casablanca - Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+533,['ENSIAS AI'],[]
+534,[],[]
+535,[],[]
+536,"['Société Générale African Business Services\n        Internship', 'INTELLCAP SARL\n        Internship', 'OCP S.A\n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+537,"['AdelphaTech\n        Internship', 'AdelphaTech\n        Internship', 'Olympiades ENSIAS\n        Full-time', 'Club Japonais ENSIAS\n        Full-time', 'Salam Gaz S.A.\n        Internship']","['Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Province de Taza, Morocco']"
+538,[],[]
+539,['OCP siege'],"['Maroc', 'Maroc', 'Maroc']"
+540,[],[]
+541,"['NAVITAS CONSULTING business consultants\n        Full-time', 'Olympiades ENSIAS', 'IMT Group\n        Full-time']","['Casablanca et périphérie', 'Province de Kénitra, Morocco']"
+542,['ENSIAS AI'],[]
+543,"['ALIS\n        Internship', 'Intelcap\n        Internship']","['Casablanca', 'Préfecture de Rabat, Morocco']"
+544,['Henceforth\n        Internship'],['Maroc']
+545,"['Orange\n        Internship', 'SQLI', ""Ministère d'énergie, des mines et du développement durable""]","['Caen, Normandie, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+546,"['Banque Centrale Populaire - BCP\n        Full-time', 'Banque Centrale Populaire - BCP\n        Internship', 'Centre Hospitalier Universitaire Hassan II\n        Internship', 'Centre Hospitalier Universitaire Hassan II\n        Internship']","['Fès , Morocco', 'Fès , Morocco']"
+547,"['BNP Paribas\n        Full-time', 'IBM', 'IBM', 'Bold Data', ""Chambre de commerce, service et d'industrie""]","['Paris, Île-de-France, France', 'Région de Paris, France', 'France', 'Préfecture de Casablanca, Morocco', 'Province d’Al Hoceïma, Morocco']"
+548,[],[]
+549,"['Oracle\n        Full-time', 'Metaware services', 'Devox', 'ONEE - Branche Eléctricité']","['Préfecture de Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Province de Béni Mellal, Morocco']"
+550,"['Deloitte Nearshore', 'HP CDG IT Services', 'IMEDER', 'Daimler']","['Rabat Prefecture, Morocco', 'Rabat, Morocco', 'Casablanca, Morocco', 'Rabat, Morocco', 'Perpignan (Perpinyà) Area, France / Casablanca, Morocco', 'Stuttgart, Germany']"
+551,[],[]
+552,['WNET S.A.R.L\n        Internship'],[]
+553,['Forum GENI Entreprises'],[]
+554,['Bouygues Construction\n        Internship'],"['Casablanca-Settat, Maroc']"
+555,['ENSIAS\n        Internship'],[]
+556,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Full-time"", 'INTELLCAP CORPORATION\n        Full-time', 'Boston Consulting Group (BCG)\n        Full-time']","['Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat Metropolitan Area']"
+557,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'INFOSAT \n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Agadir, Souss-Massa, Maroc']"
+558,['Olympiades ENSIAS'],[]
+559,[],[]
+560,"['Technologies de France\n        Internship', 'Zenith Lighting\n        Internship', 'AXA\n        Internship']","['France', 'Casablanca-Settat, Maroc', 'Casablanca - Settat, Maroc']"
+561,[],[]
+562,"['Deloitte\n        Internship', 'ENSIAS IT Club', 'Henceforth\n        Internship', 'Highness']","['Province de Kénitra, Morocco']"
+563,"['AC2i', 'Tanger Med Compte officiel - TMSA', 'ONCF']","['Préfecture de Rabat, Morocco', 'Préfecture de Tanger-Asilah, Morocco', 'Maroc']"
+564,"['Webima', 'Palais Municipal']","['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Kasba Tadla']"
+565,"['Fintech ENSIAS', 'Forum GENI ENTREPRISES', 'Olympiades ENSIAS', 'AXA Assurance Maroc\n        Internship']",['Maroc']
+566,"['Banque Centrale Populaire - BCP\n        Internship', 'ECS Informatique\n        Internship', 'PLANETE ETUDES\n        Internship']","['Casablanca-Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+567,"['PLARUCE Engineering\n        Full-time', 'OCP SA\n        Full-time']","['Maroc', 'El Jadida, Casablanca - Settat, Maroc']"
+568,[],[]
+569,"['Tanger Med Port Authority\n        Full-time', 'S2M', 'Axentis group', 'Atm-View', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS""]","['Tanger-Asilah Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat, Morocco']"
+570,[],[]
+571,"['Salesforce\n        Full-time', 'Banque Centrale Populaire - BCP', 'University of Houston', 'MIT', 'AXIGEO']","['Région de Houston, Texas, États-Unis']"
+572,[],[]
+573,"['OCP S.A', 'Groupe AKSAL', 'Poste Maroc (Barid Al Maghrib)', 'Caisse de Dépôt et de Gestion', ""Label'Vie""]","['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+574,[],[]
+575,"['Cegedim e-business\n        Full-time', 'everis\n        Internship', 'Naturgy\n        Internship', 'Administration des Douanes et Impôts Indirects']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco']"
+576,"['Leyton\n        Full-time', 'INTELCIA', 'KBM Consulting']","['Casablanca-Settat, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+577,"[""Université du Littoral Côte d'Opale\n        Full-time"", ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", ""LISIC - Laboratoire d'Informatique Signal et Image de la Côte d'Opale""]","['Saint-Omer, Hauts-de-France, France', 'Rabat, Morocco', 'Région de Calais, France']"
+578,"['Haut Commissariat au Plan\n        Internship', 'MG ADVANCED TECHNOLOGY\n        Internship', 'ZH - Sanitaire\n        Internship', ""Office national de l'electricité et de l'eau potable - Branche Electricité\n        Internship""]","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Tanger, Tanger-Tetouan-Al Hoceima, Maroc', 'Beni Mellal, Béni Mellal-Khénifra, Maroc', 'Beni Mellal, Béni Mellal-Khénifra, Maroc']"
+579,"['Margo', 'INGENIANCE', 'ADVENTS', 'INTELLCAP Groupe', 'office des changes']","['Région de Paris, France', 'Région de Paris, France', 'Région de Lyon, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+580,"['MCISE\n        Internship', 'Oh Man! Magazine\n        Part-time', 'Jazz’min\n        Part-time']","['remote work', 'Rabat Metropolitan Area', 'Settat']"
+581,"['Deloitte\n        Internship', 'Henceforth\n        Internship', 'AccelCity\n        Internship', 'Omnidata\n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Rabat-Sale, Morocco', 'Casablanca, Morocco', 'Casablanca, Morocco']"
+582,"['Umanis\n        Internship', 'D&A TECHNOLOGIES\n        Internship', 'ClicNetKey\n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Casablanca, Casablanca-Settat, Morocco', 'Casablanca, Morocco']"
+583,"['Groupe Managem', 'Emerging Business Factory']",['Marrakech']
+584,"['Oracle', ""RMA - Royale Marocaine d'Assurance\n        Internship"", 'ENSIAS AI\n        Self-employed', 'ENSIAS IT Club', 'OCP SA\n        Internship']","['Casablanca-Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+585,"['Data in Seconds (DASEC)\n        Full-time', 'Data in Seconds (DASEC)\n        Internship', 'Data in Seconds (DASEC)\n        Internship', 'FARASHA SYSTEMS\n        Internship']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Kénitra Province, Morocco', 'Rabat Prefecture, Morocco']"
+586,[],[]
+587,"[""Rony's"", 'Devpart']","['Région de Lyon, France', 'Région de Lyon, France', 'Région de Lyon, France', 'Préfecture de Casablanca, Morocco']"
+588,"['OXIO\n        Permanent', 'FINAXYS\n        Internship', 'OXIO\n        Internship', 'MAGHREB ARABE PRESSE AGENCE MAROCAINE DE PRESSE\n        Internship', 'DBT Services Maroc\n        Internship']","['Paris, Île-de-France, France', 'Neuilly-sur-Seine, Ile-de-France, France', 'Paris, Île-de-France, France']"
+589,['Somatime Nador'],"['Nador, Oriental, Maroc']"
+590,['Olympiades ENSIAS'],[]
+591,"['Intellcap\n        Internship', 'Trésorerie Générale du Royaume\n        Internship']","['Rabat Hay ryad', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+592,[],[]
+593,[],[]
+594,[],[]
+595,['ATRAIT Consulting\n        Internship'],['الدار البيضاء الكبرى المغرب']
+596,[],[]
+597,"['EdifiXio\n        Internship', 'Nokia\n        Internship', 'Webazu\n        Internship']","['Levallois-Perret, Île-de-France, France', 'Rabat - Salé - Kénitra, Maroc', 'Préfecture de Marrakech, Morocco']"
+598,"['IBM Interactive - an IBM company\n        Permanent', 'IBM Interactive - an IBM company\n        Permanent', 'IBM\n        Permanent', 'KBM Consulting\n        Internship', 'Angel Assistance\n        Internship']","['Ville de Paris, Île-de-France, France', 'Ville de Paris, Île-de-France, France', 'Région de Paris, France', 'Casablanca, Morocco', 'Nancy, Grand Est, France (Remote)']"
+599,[],[]
+600,"['Henceforth', 'Henceforth \n        Internship']","['Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+601,"['EXFO\n        Permanent Full-time', 'OPEN', 'Ubisoft', 'Banque Populaire du Maroc (Groupe) Inc']","['Quebec, Canada', 'Région de Paris, France']"
+602,"['La crémaillère du coeur', 'Masarat App', 'Freelance', 'INFOSAT']","['Khouribga, Béni Mellal - Khénifra, Maroc', 'Préfecture de Skhirat-Témara, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco']"
+603,[],[]
+604,[],[]
+605,"['Navitas Consulting\n        Internship', 'RADEEMA\n        Internship']","['Morocco', 'Marrakesh, Marrakesh-Safi, Morocco']"
+606,"['Soluverts\n        Internship', 'Freeray electronics\n        Internship', 'Maxware']","['Maroc', 'Maroc', 'Province de Kénitra, Morocco']"
+607,"['Ministère de la Justice Maroc\n        Internship', 'ALIMANI\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Meknès, Morocco']"
+608,"['Entreprise de bâtiment freecos', 'OCP SA']","['Préfecture de Casablanca, Morocco', 'Casablanca']"
+609,"['RMA CAPITAL LIMITED', 'Mindevs']","['Ben Guerir, Marrakech-Tensift-Al Haouz, Morocco', 'benguerir', 'Préfecture de Casablanca, Morocco', 'Marrakech']"
+610,[],[]
+611,"['Société Générale African Business Services\n        Internship', 'intellcap\n        Internship', 'Oneiro maroc\n        Internship', 'ValueIT sarl\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Casablanca, Casablanca-Settat, Maroc']"
+612,[],[]
+613,['Amendis Veolia\n        Internship'],['Maroc']
+614,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'OCP S.A']","['Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+615,"['S2M', 'Axentis group', 'Confidentiel']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+616,[],[]
+617,"['Ministère de l’ESRSFC', 'Quantum Technologies & Hayat Kimya']","['Khénifra Province, Morocco', 'Casablanca']"
+618,['EOL Center \n        Internship'],"['Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco']"
+619,"['Henceforth\n        Internship', ""Ministère de l'Intérieur Maroc""]","['Rabat, Maroc']"
+620,['PayLogic'],['Maroc']
+621,"['Groupe Premium', 'Atlas Voyages', 'Royal Air Maroc', 'Royal Air Maroc']","['Préfecture de Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+622,[],"['Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+623,"['Umanis\n        Internship', 'doosys.ma\n        Internship', 'ANCFCC\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco']"
+624,[],[]
+625,[],[]
+626,"['Airbus\n        Internship', 'SNTL Group', 'Attijariwafa bank']","['Toulouse, Occitanie, France', 'Rabat, Morocco', 'Casablanca, Morocco']"
+627,"['Performics\n        Full-time', 'ADIAS - IT Solutions & Services\n        Full-time', 'Performics', 'Advancio', 'Banque Populaire du Maroc (Groupe) Inc']","['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Agadir Ida-Outanane Prefecture, Morocco']"
+628,['doosys.ma\n        Internship'],['Rabat']
+629,"['Banque Centrale Populaire - BCP', 'Banque Centrale Populaire - BCP', 'Sonopia', 'Lydec']","['Casablanca,Maroc', 'Casablanca,Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+630,['TRAINING DM\n        Internship'],"['Casablanca, Casablanca-Settat, Maroc']"
+631,[],[]
+632,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Full-time""]",['Morocco']
+633,"['BOUYGUES CONSTRUCTION IT\n        Internship', 'doosys.ma\n        Internship', 'Association marocaine de planification familiale']","['Casablanca-Settat, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Fès, Morocco']"
+634,"['Société Générale - Africa Technologies & Services', 'Societe Generale Corporate and Investment Banking - SGCIB']","['Préfecture de Casablanca, Morocco']"
+635,[],"['Casablanca', '', '', '', '']"
+636,"['Association Des Elèves Ingénieurs ENSIAS\n        Full-time', 'Lydec']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Casablanca Prefecture, Morocco']"
+637,"['Altran', 'Airbus', 'Banque Populaire du Maroc (Groupe) Inc', 'Banque Populaire du Maroc (Groupe) Inc', 'Maroc Assistance']","['Toulouse, Occitanie, France', 'Toulouse, Occitanie, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+638,"['Stellantis\n        Full-time', 'Groupe PSA\n        Internship', 'Mohammed VI Polytechnic University\n        Internship', ""Office national de l'electricité et de l'eau potable - Branche Electricité""]","['Kénitra Province, Rabat-Salé-Kenitra, Morocco', 'Kénitra Province, Morocco', 'Morocco', 'Marrakech Prefecture, Morocco']"
+639,"['OCP S.A\n        Full-time', 'ONHYM']","['Préfecture de Rabat, Morocco']"
+640,"['Devoteam G Cloud', 'HSBC', 'Constellium', 'OPEN WHITE', 'HP CDG IT SERVICES']","['Levallois-Perret, Île-de-France, France', 'Paris, Île-de-France, France', 'Voreppe, Rhône-Alpes, France', 'Bron, rhône alpes', 'Préfecture de Rabat, Morocco']"
+641,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Full-time""]","['Rabat, Rabat-Salé-Kénitra, Maroc']"
+642,"['OCP SA\n        Full-time', 'ADIAS - IT Solutions & Services\n        Full-time', 'Safran', 'Solar Decathlon AFRICA', 'Sews Cabind Maroc']","['El Jadida, Casablanca - Settat, Maroc', 'Casablanca', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+643,"['NBS Consulting | Salesforce Platinum Partner', 'Digimind', 'Intelcom', 'IT6 Consulting', 'Intelcom']","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Rabat', 'Rabat, Maroc', 'Casablanca']"
+644,['Forum GENI Entreprises'],"['Rabat - Salé - Kénitra, Maroc']"
+645,"['HARDIS GROUP', ""L'Association des jeunes Développeurs"", 'CBI']","['Région de Lyon, France', 'Région de Lyon, France', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Préfecture de Casablanca, Morocco']"
+646,"['Netfective Technology', 'CSI Maroc Technologis', 'Faculté Polydisplanaire', 'Bank Al-Maghrib']","['Préfecture de Casablanca, Morocco', 'Préfecture de Mohammédia, Morocco', 'Province de Taza, Morocco', 'Province de Taza, Morocco']"
+647,"['Indépendant \n        Full-time', 'Innovation lab for operations - UM6P', 'INTELLCAP', 'Imalia SARL']","['Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco']"
+648,"['Graphtocom\n        Internship', 'ASSOCIATION DES ELEVES INGENIEURS']","['Marrakesh-Safi, Morocco', 'Rabat']"
+649,"['Solutions KIDOS\n        Internship', 'CGI\n        Internship', 'PORTNET S.A. ""National Single Window of Foreign Trade""\u200b', 'ANDZOA']","['Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Province d’Errachidia, Morocco']"
+650,[],[]
+651,"['Promy\n        Full-time', 'DabaGo\n        Internship', 'Promy\n        Internship', 'Lydec']","['Casablanca, Casablanca-Settat, Morocco', 'Lyon Area, France', 'Casablanca Prefecture, Morocco']"
+652,"[""Ministère de l'Education Nationale, de la Formation professionnelle\xa0 de l'Enseignement Su"", 'société d’Etude et de Fabrication des Outillages Aéronautiques', 'Sophoras Optic']","['Casablanca, Casablanca-Settat, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Province de Nouaceur, Morocco', 'Préfecture de Casablanca, Morocco']"
+653,['Trésorerie Générale du Royaume\n        Internship'],"['Rabat, Rabat - Salé - Kénitra, Maroc']"
+654,"['Banque Populaire du Maroc (Groupe) Inc', 'Banque Populaire du Maroc (Groupe) Inc']","['Préfecture de Casablanca, Morocco']"
+655,[],[]
+656,[],[]
+657,"['BDSI Maroc', 'Office National des Chemins de Fer (ONCF)']",[]
+658,['Seeders technology\n        Internship'],"['Cairo, Egypt']"
+659,"['FINAXYS\n        Internship', 'Orange Business Services au Maroc', 'Al Barid Bank']","['Région de Paris, France', 'Préfecture de Salé, Morocco', 'Préfecture de Rabat, Morocco']"
+660,['OCP SA'],"['Rabat, Rabat-Sale, Morocco', 'Rabat-Sale, Morocco', 'Province de Youssoufia, Morocco']"
+661,"['Affichez\n        Full-time', 'ITRI', 'Université Internationale de Rabat']","['Québec, Canada', 'Québec, Canada', 'Québec, Canada', 'Préfecture de Salé, Morocco', 'Préfecture de Rabat, Morocco']"
+662,"['Avanade\n        Internship', 'AEVAweb', 'YoSoBox', 'Mindtech']","['Lyon, Auvergne-Rhône-Alpes, France', 'Préfecture d’Oujda-Angad, Morocco', 'Préfecture d’Oujda-Angad, Morocco', 'Préfecture de Casablanca, Morocco']"
+663,[],[]
+664,[],[]
+665,"['Casky.io\n        Internship', 'Intellcap', ""L'intégrateur""]","['Préfecture de Marrakech, Morocco', 'Préfecture de Rabat, Morocco', 'Fès Prefecture, Morocco']"
+666,['Sofrecom'],"['Préfecture de Casablanca, Morocco']"
+667,"['AdelphaTech', 'CIRES Technologies - Tanger Med']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Tangier, Tanger-Tetouan-Al Hoceima, Maroc']"
+668,['Borderline-solutions\n        Internship'],['Maroc']
+669,"['ENSIAS', 'Veolia\n        Internship']","['Tétouan, Tanger-Tetouan-Al Hoceima, Morocco']"
+670,"['Banque Centrale Populaire - BCP', 'Banque Centrale Populaire - BCP\n        Internship', 'Graviton', 'MySchool']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+671,"['Caisse Marocaine des Retraites', 'Great Debaters ENSIAS\n        Part-time', 'Office National des Chemins de Fer (ONCF)']","['Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'ENSIAS', 'Préfecture de Rabat, Morocco', 'Rabat Prefecture, Morocco']"
+672,[],[]
+673,[],"['Seattle, Washington, États-Unis', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+674,"['Freelance', 'D&A TECHNOLOGIES', 'CGI']","['Monde', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+675,[],[]
+676,"['Zanaris\n        Internship', 'TTEC \n        Internship']",['Belgique']
+677,"['STMicroelectronics\n        Full-time', 'STMicroelectronics', 'Marsa Maroc', 'Office National des Chemins de Fer (ONCF)']","['Bouskoura, Casablanca, Morocco', 'Bouskoura, Grand Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+678,"['Rutabago\n        Full-time', 'Self-employed', 'Dokit.io\n        Full-time', 'MEDI1TV']","['Paris, France', 'Paris Area, France', 'Tanger-Asilah Prefecture, Morocco']"
+679,"[""Kenz'up\n        Full-time"", 'SEVEN\n        Internship', 'AIOX Labs \n        Internship', 'RADEEMA\n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Casablanca, Morocco', 'Rabat Prefecture, Morocco', 'Marrakech Prefecture, Morocco']"
+680,"['IBM\n        Internship', 'Superprof\n        Self-employed', 'ENSIAS AI', 'OCP SA\n        Internship', 'OCP SA']","['Colombes, Île-de-France, France', 'France', 'Rabat, Morocco', 'Casablanca, Casablanca - Settat, Maroc', 'Casablanca, Grand Casablanca, Morocco']"
+681,"['INTELLCAP SARL\n        Internship', 'Best Well SARL\n        Internship']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'El Hajeb, Fès-Meknès, Morocco']"
+682,"['Capgemini', 'Montreal University', 'CHU Mohammed VI Marrakech\n        Internship', 'MENARA\n        Internship']","['Montréal, Québec, Canada', 'Marrakech - Safi, Maroc', 'Marrakech - Safi, Maroc']"
+683,"['EDF', 'Talan Solutions (EXL Group)', 'SNCF\n        Full-time', 'Société Générale\n        Full-time', 'IENA | Performance Management and Finance Consulting']","['Île-de-France, France', 'Région de Paris, France', 'Paris, Île-de-France, France', 'Région de Paris, France', 'Région de Paris, France']"
+684,"['Finéa - Groupe CDG\n        Full-time', 'Nalysa\n        Internship', 'MINISTERE AUPRES DU PREMIER MINISTRE CHARGE DES RELATIONS AVEC LE PARLEMENT\n        Internship', ""Centre Régional d'Investissement de Casablanca-Settat\n        Internship""]","['Casablanca, Casablanca-Settat, Maroc', 'Jakarta, Indonésie', 'Rabat, Rabat - Salé - Kénitra, Maroc', 'Rabat, Morocco']"
+685,"['EURAFRIC INFORMATION\n        Full-time', 'Banque Centrale Populaire - BCP\n        Internship', 'Novancy One \uf3af\n        Internship', 'HazelPartner\n        Internship']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+686,"['Google\n        Full-time', 'GoPro\n        Internship', 'DXC Technology']","['London, England, United Kingdom', 'Paris, Ile-de-France, France', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Salé Prefecture, Morocco']"
+687,[],[]
+688,"['Banque Centrale Populaire - BCP', 'Henceforth', ""Office national de l'electricité et de l'eau potable - Branche Electricité""]","['Casablanca', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco']"
+689,[],[]
+690,"['CFIN\n        Full-time', 'Province de Berkane\n        Full-time', 'AXECIEL']","['Berkane Province, Oriental, Morocco', 'Berkane Province, Oriental, Morocco', 'Oujda-Angad Prefecture, Morocco']"
+691,[],[]
+692,"['INFOSAT S.A.\n        Internship', 'DAKHLA\n        Internship', 'Droguerie Quincaillerie Afrique\n        Internship']","['Agadir, Souss-Massa, Morocco', 'Agadir, Souss-Massa, Morocco', 'Agadir, Souss-Massa, Morocco']"
+693,"['Grupo AVALON\n        Full-time', 'inwi\n        Full-time', ""Nell'Armonia\n        Full-time"", ""Conseil Supérieur de l'Education, de la Formation et de la Recherche Scientifique\n        Internship"", 'Harmony Technology\n        Internship']","['Tétouan et périphérie', 'Grand Casablanca', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+694,"['University of Houston', 'University of Houston', 'CDG Capital', 'Chaabi Bank']","['Houston, Texas Area', 'United States', 'Préfecture de Rabat, Morocco', 'Préfecture de Fès, Morocco']"
+695,"['PortNet: ""National Single Window of Foreign Trade""\n        Internship', 'Conseil de la communauté marocaine à l’étranger - CCME\n        Internship', 'CNRST\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Rabat Prefecture, Morocco']"
+696,[],[]
+697,['MD SYNERGY'],"['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+698,"['infosec club', 'MTA256', 'Robotics Club ENSIAS']","['Préfecture de Rabat, Morocco', 'Ensias', 'rabat']"
+699,"['Forum GENI Entreprises\n        Part-time', 'IEEE ENSIAS STUDENT BRANCH\n        Part-time', 'ENSIAS TV\n        Part-time', 'ENSIAS IT Club\n        Part-time']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+700,"['Fintech ENSIAS', 'Forum GENI ENTREPRISES', 'International Business Consulting SA']",[]
+701,"['doosys.ma', 'Groupe CDG', 'Phone Group', 'Involys,( Ex Groupe ONA)']","['Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+702,"['Orange Business Services Maroc', 'Femotra s.a.r.l']","['Rabat, Maroc']"
+703,[],[]
+704,"['Toulouse Business School', 'Al Maali Consulting Group', 'Prune Impact', 'Finance and Strategy Spectrum', 'Cardiff Metropolitan University']","['Casablanca Prefecture, Morocco', 'Dubai, United Arab Emirates', 'Morocco', 'Casablanca, Morocco', 'Casablanca, Morocco']"
+705,[],[]
+706,"['RIBATIS', 'Percall SA', 'USEMTECH', 'LafargeHolcim']","['Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Meknès Prefecture, Morocco']"
+707,[],"['Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+708,"['SKATYS, SAP Gold Partner Maroc & Afrique\n        Full-time', 'Al Barid Bank', 'ANAPEC', 'RHONE CHIMIE', 'FORAMAG S.A']","['Casablanca - Settat, Maroc', 'Rabat, Rabat - Salé - Kénitra, Maroc', 'Casablanca - Settat, Maroc', 'Casablanca - Settat, Maroc', 'Casablanca - Settat, Maroc']"
+709,[],[]
+710,[],[]
+711,"['OCTO Technology\n        Internship', 'Zenith Lighting Inc\n        Internship', 'PortNet: ""National Single Window of Foreign Trade""\n        Internship']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Casablanca, Casablanca-Settat, Morocco', 'Casablanca, Casablanca-Settat, Morocco']"
+712,"['INSEC', 'Premium technologies']","['Casablanca - Settat, Maroc']"
+713,"['Forum GENI ENTREPRISES', 'Olympiades ENSIAS', 'CINDH-ENSIAS(Club d’Initiative Nationale du Développement Humain )', 'INSEC ENSIAS']","['Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+714,[],[]
+715,[],[]
+716,"['Private\n        Internship', 'ENSIAS BRIDGE', 'Forum GENI Entreprises', 'ELECTRONIC ENGINEERING\n        Internship']","['Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Rabat Prefecture, Morocco']"
+717,[],[]
+718,"['HPS\n        Full-time', 'PayLogic\n        Full-time', 'PayLogic\n        Internship', 'Intellcap\n        Internship', 'Amendis\n        Internship']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Rabat', 'Province de Tétouan, Morocco']"
+719,"['CDG Capital \n        Internship', 'Daimler Trucks Asia\n        Internship', ""Ministère de l'économie et des Finances\n        Internship""]","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Kanagawa, Japan', 'Rabat Prefecture, Morocco']"
+720,"['C2M\n        Internship', 'Trésorerie Générale du Royaume\n        Internship']","['Rabat, Rabat - Salé - Kénitra, Maroc']"
+721,"['CELAD\n        Full-time', 'Maroc Telecom\n        Full-time', 'SQLI\n        Full-time']","['Toulouse, Midi-Pyrénées, France', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+722,"['Attijariwafa bank', 'Attijariwafa bank', 'Opentech', 'PUMP Digital Agency']","['Maroc', 'Préfecture de Casablanca, Morocco', 'Rabat, Maroc']"
+723,['NewDev MAROC\n        Internship'],"['Fès, Fès-Meknès, Maroc']"
+724,[],[]
+725,"['ENSIAS AI\n        Part-time', 'YELL CO\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat - Salé - Kénitra, Maroc']"
+726,[],"['Casablanca Prefecture, Morocco']"
+727,[],[]
+728,"['Computer Science Faculty, University of Murcia (FIUM)\n        Contract', 'Computer Science Faculty, University of Murcia (FIUM)\n        Internship']","['Murcia, Región de Murcia, Spain', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Murcia Area, Spain']"
+729,"['Avito.ma - Schibsted Morocco', 'Schibsted Media Group', 'WRIDELY']","['Dubai, United Arab Emirates', 'Dubai, United Arab Emirates', 'Casablanca Prefecture, Morocco', 'London, United Kingdom', 'Casablanca', 'Casablanca', 'San Diego California']"
+730,[],[]
+731,"['HEUDIASYC - UMR CNRS 7253 - Université de Technologie de Compiègne (UTC)\n        Full-time', 'French National Institute for Agricultural Research (INRA)\n        Internship', 'ForDev\n        Internship']","['France', 'France', 'Casablanca']"
+732,"['Davidson consulting\n        Permanent', 'Orange\n        Internship', 'LIUM Le Mans \n        Internship', 'Forum GENI Entreprises', 'BMCE\n        Internship']","['Pessac, Nouvelle-Aquitaine, France', 'Le Mans, Pays de la Loire, France', 'Rabat, Morocco', 'Béni Mellal, Béni Mellal-Khénifra, Maroc']"
+733,"['Sofrecom\n        Internship', 'HBWeb\n        Internship', 'Faculté des Sciences Semlalia Marrakech\n        Internship']",[]
+734,"['Inetum', 'SQLI', 'SoftCentre\n        Internship', 'LogOr Conseil']","['Paris Area, France', 'Rabat Prefecture, Morocco', 'Rabat', 'Marrakech']"
+735,[],[]
+736,[],[]
+737,[],[]
+738,"['MAFODER GROUP\n        Internship', 'Comdata Maroc']","['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+739,"['MEGA International\n        Full-time', 'HPS\n        Internship']","['Casablanca, Morocco', 'Casablanca, Morocco', 'Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca']"
+740,"['Quinten\n        Full-time', 'Scale\n        Internship', ""Régie Autonome Multi-Services d'Agadir (RAMSA)\n        Internship""]","['Rabat Prefecture, Morocco', 'Agadir Ida-Outanane Prefecture, Morocco']"
+741,[],[]
+742,"['ENSIAS Information Security Club', 'ENSIAS IT Club\n        Full-time']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+743,"['PresenceSoft\n        Full-time', 'LabelVie\n        Internship', ""Centre National d'Etudes et Recherches Routières (CNER)\n        Internship"", 'MAC//Z Group\n        Internship']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Skhirat-Temara, Rabat - Salé - Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Skhirat-Témara Prefecture, Morocco']"
+744,"['Desjardins\n        Permanent Full-time', 'DXC Technology Morocco\n        Internship']","['Lévis, Quebec, Canada', 'Rabat-Salé-Zemmour-Zaër, Morocco']"
+745,"['Société Générale - Africa Technologies & Services', 'Société Générale - Africa Technologies & Services', 'Banque Centrale Populaire - BCP', 'Société Centrale de Réassurance']",['Casablanca']
+746,"['David Health Solutions Ltd.', 'Aalto University', 'Opentech\n        Internship', 'IEEE ENSIAS STUDENT BRANCH']","['Helsinki Area, Finland', 'Helsinki Area, Finland', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+747,[],[]
+748,"['DXC Technology\n        Internship', 'PLARUCE ENGINEERING\n        Internship', 'OCP Group']","['El-Jadida, Casablanca-Settat, Maroc', 'El-Jadida, Casablanca-Settat, Maroc']"
+749,[],[]
+750,['SoftyDev\n        Full-time'],"['Casablanca, Casablanca-Settat, Morocco']"
+751,"['Abeeway \n        Internship', 'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research\n        Internship', 'Office National des Chemins de Fer (ONCF)\n        Internship']","['France', 'Préfecture de Rabat, Morocco', 'Morocco']"
+752,"['Banque Centrale Populaire - BCP', 'SQLI', 'IT department , Faculty of Legal,Economic and Social Sciences']","['Casablanca Prefecture, Morocco', 'Oujda-Angad Prefecture, Morocco', 'Oujda-Angad Prefecture, Morocco']"
+753,"['OCTO Technology', 'Sopra Banking Software', 'HOMSYS Maroc', 'Equipe MIS\n        Internship', 'Jactive\n        Internship']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Casablanca', 'Préfecture de Rabat, Morocco', 'Rabat']"
+754,[],[]
+755,[],[]
+756,[],[]
+757,[],[]
+758,"['Société SGE-TOPO', 'Société Générale Maroc', 'ENSIAS', 'Casablanca Stock Exchange']","['Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Maroc', 'à MARRKECH.']"
+759,['Forum GENI ENTREPRISES\n        Part-time'],['Maroc']
+760,['PayLogic'],[]
+761,"['Confidential\n        Full-time', 'Henceforth', 'INNOVATECH ENGINEERING', 'Caisse de Dépôt et de Gestion']","['Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco']"
+762,"['DXC Technology Maroc\n        Internship', 'Haut Commissariat au Plan\n        Internship', ""la Direction Provinciale de la Ministère de l'Education Nationale \n        Internship""]","['Salé, Rabat-Salé-Kénitra, Maroc']"
+763,[],[]
+764,"['GO HI\n        Internship', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'EVEAD Group\n        Internship', 'IEEE', 'ENSIAS BRIDGE']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Préfecture de Rabat, Morocco']"
+765,"['Thales', 'Paris Descartes university', 'Thales Research and Technology', 'Sahih Business', 'TEOS, Technopark Tanger']","['Palaiseau, France', 'Paris Area, France', 'Paris Area, France', 'Tanger-Asilah Prefecture, Morocco', 'Tanger, Maroc']"
+766,"['Société Générale - Africa Technologies & Services\n        Full-time', 'Société Générale\n        Full-time', 'Royal Air Maroc', 'OCP SA']","['maroc', 'Maroc, casa']"
+767,"['Province / Service informatique\n        Internship', 'Olympiades ENSIAS\n        Part-time']","['El Kelaâ des Sraghna, Marrakesh-Safi, Maroc']"
+768,[],[]
+769,"['PortNet: ""Guichet Unique National des Procédures du Commerce Extérieur""\n        Internship']","['Casablanca, Maroc']"
+770,['Forum GENI ENTREPRISES'],"['Rabat, Rabat-Salé-Kénitra, Maroc']"
+771,"['the Great Debaters ENSIAS\n        Part-time', 'GROUPE MIAGE\n        Internship']","['Casablanca, Casablanca-Settat, Maroc']"
+772,[],[]
+773,"['VISEO\n        Internship', 'PortNet: ""Guichet Unique National des Procédures du Commerce Extérieur""\n        Internship', 'PORTNET S.A. ""National Single Window of Foreign Trade""\u200b\n        Internship']","['Maroc', 'Préfecture de Casablanca, Morocco']"
+774,[],[]
+775,"['Forum GENI ENTREPRISES\n        Part-time', 'Hult Prize Foundation\n        Part-time']",[]
+776,"['SAP\n        Internship', 'AFD Technologies\n        Internship', 'OPEN WHITE\n        Internship', ""L'Association des jeunes Développeurs"", 'Banque Centrale Populaire - BCP\n        Internship']","['Ile-de-France, France', 'Rabat Prefecture, Morocco', 'Morocco', 'Préfecture de Rabat, Morocco', 'Morocco']"
+777,"['The Good Data Factory\n        Full-time', 'Publicis COSMOS\n        Contract', 'SEPHORA\n        Contract']","['Seattle, Washington, United States', 'San Francisco Bay Area']"
+778,"['CNS Communications\n        Internship', 'EY\n        Internship', 'Fondation ATTAWFIQ', 'Trésorerie Générale du Royaume']","['lyon', 'Maroc', 'Maroc']"
+779,[],[]
+780,"['Groupe PSA', 'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research', 'OCP SA']","['Casablanca-Settat, Maroc', 'Province de Khouribga, Morocco']"
+781,"[""Kenz'up\n        Full-time"", 'Bluemanoid\n        Internship', 'Intellcap\n        Internship', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'Webpick\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Roubaix, Hauts-de-France, France', 'Préfecture de Rabat, Morocco', 'Rabat, Morocco', 'Marrakech - Safi, Maroc']"
+782,['Attijariwafa bank\n        Internship'],"['Casablanca - Settat, Maroc']"
+783,[],[]
+784,[],[]
+785,"['University of Houston', 'VideoPoints', 'University of Houston', 'University of Houston', 'DIT']","['Houston, Texas Area', 'Houston, Texas Area', 'Houston, Texas Area', 'Houston, Texas Area', 'Berrechid Province, Morocco']"
+786,[],[]
+787,['NEKOR CONSULTING\n        Internship'],[]
+788,[],[]
+789,"['La Centrale .fr', 'Société Générale', 'Airbus', 'Akka Technologies', 'IRIT (Institut de Recherche en Informatique de Toulouse)']","['Paris, Île-de-France, France', 'Paris, Île-de-France, France', 'Toulouse Area, France', 'Toulouse Area, France', 'Toulouse Area, France']"
+790,[],[]
+791,['OMNIYAT'],[]
+792,['Bazard Tobacco Company- BTC\n        Internship'],['Tanger et périphérie']
+793,['D&A TECHNOLOGIES\n        Internship'],"['Casablanca - Settat, Maroc']"
+794,['Webpick'],"['Préfecture de Marrakech, Morocco']"
+795,[],[]
+796,"['Wafa Assurance\n        Full-time', 'Freelance', 'Hartwood\n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Paris Area, France']"
+797,"['LA Défense', 'Orange', 'Intrinsec', 'S4U Services For You']","['Région de Paris, France', 'Préfecture de Rabat, Morocco']"
+798,"['BCA Expertise\n        Internship', 'Atos\n        Internship', 'ANCFCC\n        Internship']","['Ville de Paris, Île-de-France, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+799,"['PEAQOCK', 'Wafasalaf', 'Groupe Abroun Gold TV SAT', 'COMPTOIR MÉTALLURGIQUE MAROCAIN']","['Kénitra, Gharb-Chrarda-Beni Hssen, Morocco', 'Province de Kénitra, Morocco', 'Salé, Rabat-Salé-Zemmour-Zaër, Morocco', 'Préfecture de Casablanca, Morocco', 'Province de Kénitra, Morocco', 'Province de Kénitra, Morocco', 'Province de Kénitra, Morocco']"
+800,"['INTELCOM \n        Internship', 'Groupe COSUMAR\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc']"
+801,"['IBM Interactive - an IBM company', 'IBM', 'IRIT (Institut de Recherche en Informatique de Toulouse)', 'Caisse de Dépôt et de Gestion', 'Société nationale des autoroutes du Maroc']","['Région de Paris, France', 'Région de Paris, France', 'Rabat', 'Rabat-Salé-Zemmour-Zaër']"
+802,"['Auto Hall Kénitra', 'NOVEC sa', 'ONEE-Branche Eau']",[]
+803,[],[]
+804,['Masarat App\n        Internship'],['Casablanca Metropolitan Area']
+805,"['BDSI Maroc\n        Full-time', 'OCP SA\n        Internship', 'Pulsar Technologies, S.A.\n        Internship']","['Préfecture de Casablanca, Morocco', 'Casablanca', 'Préfecture de Casablanca, Morocco']"
+806,['Préfecture de meknès\n        Part-time'],"['Fès-Meknès, Maroc']"
+807,['IEEEXtreme\n        Full-time'],['Morocco']
+808,"['Mahkamaty - محكمتي\n        Internship', 'Center of learning innovation and knowledge\n        Internship']","['Morocco', 'Province de Kénitra, Morocco']"
+809,['technologie de services mondial\n        Internship'],"['Casablanca, Morocco']"
+810,['Intellcap\n        Internship'],"['Rabat Prefecture, Morocco']"
+811,[],[]
+812,"['Archytas Conseil\n        Internship', 'Forum GENI ENTREPRISES', 'IEEE ENSIAS STUDENT BRANCH', 'IGADOR\n        Internship', ""Régie Autonome Multi-Services d'Agadir (RAMSA)\n        Internship""]","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc', 'Tiznit, Souss-Massa, Maroc', 'Agadir, Souss-Massa, Maroc']"
+813,"['ENSIAS IT Club\n        Part-time', 'INSEC']",[]
+814,[],[]
+815,[],[]
+816,"['Payment Center For Africa - PCA\n        Full-time', 'soluvertes\n        Internship']","['Casablanca, Morocco', 'Casablanca Prefecture, Morocco']"
+817,[],[]
+818,[],[]
+819,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'Maghreb Steel', 'Attijariwafa bank']","['Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+820,[],[]
+821,['Groupe CDG'],"['Préfecture de Rabat, Morocco']"
+822,"['Banque Centrale Populaire - BCP\n        Full-time', 'Banque Centrale Populaire - BCP\n        Internship', 'SupMTI', 'Direction Générale des Impôts']","['Préfecture de Casablanca, Morocco', 'Maroc', 'Marrakech - Maroc']"
+823,"['imaginexlab |  Hanyang university', 'Muvik Inc', 'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research', 'PORTNET S.A. ""National Single Window of Foreign Trade""\u200b']","['Seongdong-gu, Séoul, Corée du Sud', 'Mapo-gu, Séoul, Corée du Sud', 'Préfecture de Rabat, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+824,"['IBM\n        Full-time', 'Maroc Telecom\n        Full-time', 'Onatel.bf\n        Full-time', 'CIEMS Group\n        Part-time']","['Morocco', 'Burkina Faso', 'Morocco', 'Morocco', 'Morocco']"
+825,"[""Label'Vie\n        Full-time"", 'Intelcom', 'Intelcom', 'Wise communication']","['sekhirat', 'Préfecture de Skhirat-Témara, Morocco', 'Préfecture de Skhirat-Témara, Morocco', 'Préfecture de Rabat, Morocco']"
+826,"['Agence nationale de sécurité sanitaire - Anses\n        Internship', 'Groupe Renault\n        Internship', 'RADEEL\n        Internship']","['Préfecture de Tanger-Asilah, Morocco', 'Larache, Tanger-Tétouan, Morocco']"
+827,"['D&A TECHNOLOGIES\n        Internship', 'Veolia\n        Internship']","['Casablanca Metropolitan Area', 'Tanger-Tetouan-Al Hoceima, Morocco']"
+828,[],[]
+829,[],[]
+830,"['Mohammed VI Polytechnic University\n        Internship', 'H-in-Q (Happiness in Questions)\n        Internship', 'BYMARO\n        Internship', 'L&H Computer\n        Internship']","['Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+831,"['Digi4Skool\n        Internship', 'IntellCap\n        Internship', 'DataEmbassy\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Marrakech ,Morocco']"
+832,['Digital Capital\n        Internship'],"['Casablanca, Maroc']"
+833,"['Mohammed VI Polytechnic University', 'IEEE ENSIAS STUDENT BRANCH', 'ENSIAS BRIDGE', 'MONEYCORE\n        Internship']","['Préfecture de Marrakech, Morocco', 'Région de Rennes, France', 'Région de Rennes, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Rabat']"
+834,"[""Sous-Direction auprès du cour d'appel\n        Internship""]","['Béni Mellal-Khénifra, Maroc']"
+835,"['Acentium\n        Full-time', 'Digital Equinox\n        Internship', 'SQLI\n        Internship']","['Boston, Massachusetts, United States', 'Oujda-Angad Prefecture, Morocco']"
+836,"['CFG Bank', 'Banque Populaire du Maroc (Groupe) Inc', 'OCP', 'OCP']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Province de Khouribga, Morocco', 'Province de Khouribga, Morocco']"
+837,[],[]
+838,['Acaart\n        Internship'],['Morocco']
+839,['CDM\n        Internship'],"['Meknes, Fès-Meknès, Morocco']"
+840,['Agence Nationale des Ports (ANP) \n        Internship'],"['Préfecture de Casablanca, Morocco']"
+841,[],[]
+842,"['ENSIAS IT Club\n        Full-time', 'IEEE ENSIAS STUDENT BRANCH\n        Full-time']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+843,"['DataProtect', 'Sertect Network', 'Palais Municipal']","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+844,[],[]
+845,"['Quinten\n        Full-time', 'Scale\n        Internship', 'Marsa Maroc\n        Internship']","['Dar Bouazza, Casablanca-Settat, Morocco', 'Benguerir, Morocco.', 'Casablanca , Morocco', 'El Jadida Province, Morocco']"
+846,"['Banque marocaine', 'OPTI-TRONICS', 'Innovatis Consulting and Engineering', 'FARASHA SYSTEMS']","['Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+847,"['Natixis\n        Apprenticeship', 'Liebherr Group', 'Faculty of Electrical Engineering, Czech Technical University in Prague', 'Administration des Douanes et Impôts Indirects', 'Forum GENI Entreprises']","['Paris, France', 'Prague, République tchèque']"
+848,['Dell Technologies\n        Full-time'],"['Préfecture de Casablanca, Morocco']"
+849,[],[]
+850,[],[]
+851,"['Atos', 'Keenturtle', 'Ministère de l’Equipement, du Transport, de la Logistique et de l’Eau', 'Office National des Chemins de Fer (ONCF)']","['Lyon', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Maroc', 'Rabat Agdal']"
+852,"['MAGHREB ARABE PRESSE AGENCE MAROCAINE DE PRESSE', 'Bank Al-Maghrib']","[""Direction des Systèmes d'Informations (DSI), Préfecture de Rabat, Morocco"", 'Préfecture de Rabat, Morocco']"
+853,[],[]
+854,['TEDxENSIAS'],[]
+855,[],[]
+856,"['Digimind', 'Pulse Media']","['Paris, Île-de-France, France', 'Paris, Ile-de-France, France', 'Rabat Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+857,"[""Laboratoire d'Informatique Signal et Image de la Côte d'Opale"", 'Institut scientifique UM5', 'Intellcap\n        Internship']","['Calais, Hauts-de-France, France', 'Rabat, Rabat - Salé - Kénitra, Maroc', 'Préfecture de Rabat, Morocco']"
+858,[],[]
+859,[],[]
+860,[],[]
+861,"['Orange Business Services\n        Full-time', 'inwi\n        Full-time', 'BpmShore', 'ANRT', 'Al Omrane']","['Rabat-Salé-Kénitra, Maroc', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco', 'Rabat', 'Agadir, Sous-Massa-Drâa, Morocco']"
+862,"['SII SERVICES MAROC \n        Internship', ""DataGrowb'\n        Internship"", 'CREDIT DU MAROC\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Nantes, Pays de la Loire, France', 'Préfecture de Casablanca, Morocco']"
+863,"['Acentium\n        Full-time', 'Oracle\n        Internship', 'AEVAweb\n        Internship']","['Boston, Massachusetts, United States', 'Casablanca Prefecture, Morocco', 'Préfecture d’Oujda-Angad, Morocco']"
+864,[],[]
+865,"['AXA', 'Marsa Maroc']","['Casablanca Prefecture, Morocco']"
+866,"['IEEE', 'CLS Group (Collecte Localisation Satellites)', 'OKTEO\n        Full-time', 'IEEE ENSIAS STUDENT BRANCH', 'Data Ingénierie']","['Toulouse, Occitanie, France', 'Région de Valence, France', 'Préfecture de Rabat, Morocco', 'Maroc']"
+867,[],[]
+868,"['Netfective Technology\n        Permanent', 'Altran\n        Internship', 'PayLogic\n        Internship', 'commune urbaine de marrakech\n        Internship']","['Bordeaux, Nouvelle-Aquitaine, France', 'Blagnac, Occitanie, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Marrakech, Morocco']"
+869,"['High Integration Company | HIC', 'OCP S.A']","['Morocco', 'Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+870,"['HPS', 'Sahih Business', 'Mentis Developpement & services', 'SOCIÉTÉ TANGÉROISE DE MAINTENANCE']","['Préfecture de Casablanca, Morocco', 'Préfecture de Tanger-Asilah, Morocco', 'Préfecture de Tanger-Asilah, Morocco', 'Préfecture de Tanger-Asilah, Morocco']"
+871,[],[]
+872,[],[]
+873,[],[]
+874,"['Altran\n        Full-time', 'IEEE', 'Orange', 'Douane', ""Régie Autonome Multi-Services d'Agadir (RAMSA)""]","['Bretagne, France', 'Maroc', 'France', 'Préfecture d’Agadir Ida-Outanane, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco']"
+875,[],[]
+876,"['Societe Generale Corporate and Investment Banking - SGCIB\n        Contract', 'INGENIANCE\n        Internship', 'Digimind\n        Internship']","['Paris, Île-de-France, France', 'Paris, Ile-de-France, France', 'Rabat Prefecture, Morocco']"
+877,[],[]
+878,[],[]
+879,"['KBM Consulting', 'Netfective Technology', 'Groupe OCP', 'Groupe OCP']","['Préfecture de Casablanca, Morocco', 'Casablanca, Maroc']"
+880,"['Imedia24 GmbH\n        Full-time', 'FLYER.be', 'SisPay']","['Préfecture de Casablanca, Morocco']"
+881,"['PRAXIS ICT Consulting\n        Internship', 'AXA Assurance Maroc\n        Internship', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'BOTTU\n        Internship']","['Casablanca, Maroc', 'Casablanca, Maroc', 'Rabat, Maroc', 'Rabat, Maro', 'Casablanca, Maroc']"
+882,['TOOL Consulting\n        Internship'],"['Casablanca, Casablanca - Settat, Maroc']"
+883,[],[]
+884,[],[]
+885,"['Circular Consulting\n        Full-time', 'digiloop\n        Part-time', 'BAKIMEK']","['Brussels Region, Belgium', 'Brussels, Brussels Region, Belgium', 'Errachidia Province, Morocco', 'Meknès Prefecture, Morocco']"
+886,[],[]
+887,"['Upwork\n        Full-time', 'Office National Des Aéroports\n        Internship', 'Mohammed VI Hospital\n        Internship']","['Tétouan', 'Tangier']"
+888,"['Capgemini\n        Full-time', 'Capgemini\n        Internship']","['Préfecture de Casablanca, Morocco', 'Sophia Antipolis, Provence-Alpes-Côte d’Azur, France']"
+889,"['Bank Of Africa\n        Full-time', 'Sanlam Panafrica ex Saham Finance', 'Deloitte', 'Maroc Telecom']","['Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Casablanca, Morocco', 'Maroc', 'Maroc', 'Maroc', 'Maroc']"
+890,"['Michelin\n        Full-time', 'CEDAMUS']","['Clermont-Ferrand, Auvergne-Rhône-Alpes, France', 'Rabat, Morocco']"
+891,"['Umanis\n        Internship', 'Admiral Digital Consulting\n        Internship', 'Mobiblanc\n        Internship']",[]
+892,"['OCP SA', 'ATTAWFIQ-MF ,Banque populaire']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca - Settat, Maroc', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+893,[],[]
+894,[],[]
+895,"['Unisys\n        Full-time', 'Bull\n        Full-time', 'Omnidata\n        Full-time', 'Microids\n        Full-time']","['Morocco', 'Morocco', 'Morocco', 'The privileged interlocutor of the customer on the taxpayer area (Information Sy', 'Maroc', 'Canada']"
+896,[],[]
+897,"['ECA-Assurances\n        Internship', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", ""Faculté des Sciences Ben M'Sik""]","['Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco']"
+898,"['IRESEN - Research Institute for Solar Energy and New Energies\n        Full-time', 'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research\n        Full-time', ""Régie Autonome Multi-Services d'Agadir (RAMSA)""]","['Préfecture de Rabat, Morocco', 'Préfecture d’Agadir Ida-Outanane, Morocco']"
+899,[],[]
+900,[],[]
+901,[],[]
+902,"['JP&CO\n        Internship', 'Etoile top med']","['Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Casablanca-Settat, Maroc', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+903,"['Payment Center For Africa - PCA\n        Internship', 'Intellcap', 'ABN SOFT']","['Préfecture de Rabat, Morocco', 'Casablanca, Casablanca-Settat, Maroc']"
+904,[],[]
+905,"['Optimum Solutions TI\n        Full-time', 'Modis', 'INEAT Group', 'Domotic Maroc', 'Ministère de la communication']","['Région de Montréal, Canada', 'Région de Lille, France', 'Région de Lille, France', 'Rabat', 'Rabat']"
+906,"['MTI Express \n        Internship', 'Marsa Maroc', 'Abelmo Electronique']","['Casablanca, Casablanca-Settat, Maroc', 'Agadir, Maroc.', 'Agadir, Maroc']"
+907,"['Société Générale Assurances', 'Orange', 'B&B consultants', 'RADEEL']","['Région de Paris, France', 'Région de Paris, France', 'Région de Paris, France', 'Préfecture de Rabat, Morocco', 'Province de Larache, Morocco']"
+908,[],[]
+909,['ECS Informatique\n        Full-time'],[]
+910,"['IEEE ENSIAS STUDENT BRANCH', 'INSEC', 'ENACTUS ENSIAS']",[]
+911,"['Inetum\n        Internship', 'KAPISOFT CONSULTING\n        Internship', 'LUMAFRIC\n        Internship']","['Morocco', 'Morocco']"
+912,[],[]
+913,[],[]
+914,"['OCTO Technology\n        Internship', 'Second World\n        Internship', 'PORTNET S.A. ""National Single Window of Foreign Trade""\u200b']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat et périphérie', 'Casablanca Prefecture, Morocco']"
+915,"['doosys.ma\n        Internship', 'Attijariwafa bank\n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Préfecture de Casablanca, Morocco']"
+916,[],[]
+917,"['CHU Tanger', 'DXC Technology\n        Internship', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS"", 'Trésorerie Générale du Royaume', ""Office national de l'electricité et de l'eau potable - Branche Eau""]","['Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Province de Khénifra, Morocco']"
+918,"['TEDxENSIAS', 'Minmegam Internet Services\n        Internship', 'Wilaya of Marrakech-Safi, Morocco\n        Internship']","['Rabat-Salé-Kenitra, Morocco', 'Coimbatore, Tamil Nadu, India', 'Marrakech, Morocco']"
+919,"['oppScience\n        Permanent', 'Amadeus\n        Internship', 'invyad']","['Paris, Île-de-France, France', 'Nice, Provence-Alpes-Côte d’Azur, France', 'Préfecture de Casablanca, Morocco']"
+920,"['University of Toulouse Jean Jaures', 'IRIT (Institut de Recherche en Informatique de Toulouse)', 'Capgemini\n        Full-time', 'EBC system\n        Contract', 'Agence Nationale de Réglementation des Télécommunications\n        Internship']","['Région de Toulouse, France', 'Région de Toulouse, France', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco']"
+921,"['AIKA Services\n        Self-employed', 'Medina Express', 'Club Great debaters ENSIAS', ""L'Association des jeunes Développeurs"", 'Great Debaters ENSIAS']","['Ouagadougou, Burkina', 'Casablanca-Settat, Maroc', 'Préfecture de Rabat, Morocco', 'Rabat, Maroc', 'ENSIAS, Rabat']"
+922,"['Payment Center For Africa - PCA\n        Internship', 'Atos', 'Adspade']","['Casablanca', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+923,[],[]
+924,[],[]
+925,[],[]
+926,"['DigitalAdvisor\n        Internship', 'RADEETA\n        Internship', 'IEEE ENSIAS STUDENT BRANCH']","['El Jadida, Casablanca-Settat, Maroc', 'Province de Taza, Morocco']"
+927,"['Flood Gate Labs\n        Internship', 'INTELLCAP S.A.R.L\n        Internship']","['Rabat, Rabat - Salé - Kénitra, Maroc', 'Casablanca, Casablanca - Settat, Maroc', 'Casablanca, Casablanca - Settat, Maroc']"
+928,[],[]
+929,[],[]
+930,[],[]
+931,[],[]
+932,"['CS-Novidy’s', 'CS-Novidy’s\n        Internship']","['Le Plessis-Robinson, Île-de-France, France', 'Le Plessis-Robinson, Île-de-France, France']"
+933,"['e-acta\n        Internship', '1337 Future Is Loading']","['Fes, Morocco']"
+934,"['OMNISHORE Groupe MEDTECH\n        Full-time', 'DataProtect\n        Full-time', 'Trésorerie Générale du Royaume', ""L'Association des jeunes Développeurs"", 'Le Desk.ma']","['Casablanca, Casablanca-Settat, Morocco', 'Casablanca, Morocco', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Préfecture de Rabat, Morocco', 'Casablanca, Morocco']"
+935,['INTELLCAP\n        Internship'],"['Rabat, Rabat-Salé-Kénitra, Maroc']"
+936,"['TELEDYNE\n        Internship', 'Olympiades ENSIAS']","['Casablanca, Casablanca-Settat, Maroc', 'ENSIAS']"
+937,"['Deloitte\n        Internship', 'HackerOne\n        Freelance', 'Henceforth\n        Internship', 'Olympiades ENSIAS\n        Part-time', ""Conseil Supérieur de l'Education, de la Formation et de la Recherche Scientifique\n        Internship""]","['Casablanca, Casablanca-Settat, Morocco', 'Rabat, Rabat-Sale, Morocco', 'Maroc', 'Maroc']"
+938,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship""]","['Rabat, Rabat-Salé-Kénitra, Maroc']"
+939,"['OCTO Technology\n        Internship', 'OCTO Technology\n        Internship']","['Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+940,"['Deloitte\n        Internship', 'CDG Capital\n        Internship', 'Direction Générale des Impôts\n        Internship']","['Préfecture de Rabat, Morocco']"
+941,"['Mailoop\n        Internship', 'mamda-mcma', 'TOP ENERGIE']","['Paris, Île-de-France, France', 'Préfecture de Rabat, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+942,[],[]
+943,[],[]
+944,"['Teal Technology Services (IBM & OCP JV)\n        Full-time', 'Capgemini\n        Full-time', 'S2M\n        Internship', 'INJAZ Al-Maghrib']","['Casablanca Metropolitan Area', 'Casablanca Metropolitan Area', 'Casablanca', 'Casablanca-Settat, Morocco']"
+945,"['Karnov Group\n        Full-time', 'Cargoflux', 'MonMecanicien']","['Copenhagen, Capital Region, Denmark', 'Copenhagen, Capital Region, Denmark', 'Paris Area, France', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+946,[],[]
+947,"['Flagship.io by AB Tasty\n        Internship', 'AB Tasty\n        Internship', 'TrouveTaVoie\n        Internship', 'Maroc Telecom\n        Internship']","['Paris, Île-de-France, France', 'Paris, Île-de-France, France', 'Paris, Ile-de-France, France', 'Préfecture de Rabat, Morocco']"
+948,"['SNCF Réseau\n        Internship', 'Groupe Renault', ""Académie régionale d'éducation et de formation de Rabat-Salé-Kénitra"", 'BMCI Groupe BNP Paribas']","['Saint-Denis, Île-de-France, France', 'Région de Paris, France', 'Préfecture de Rabat, Morocco', 'Province d’El Kelaâ des Sraghna, Morocco']"
+949,"['HPS', 'M2M Group']","['Casablanca Prefecture, Morocco', 'Casablanca - Morocco']"
+950,[],[]
+951,[],[]
+952,"['Xperts4all\n        Internship', 'province oued eddahab\n        Internship']","['Casablanca, Casablanca - Settat, Maroc', 'Morocco']"
+953,"['Quality Control Engineering', 'RADEM']","['Casablanca, Casablanca-Settat, Morocco', 'Rabat Prefecture, Morocco', 'Meknes, Morocco']"
+954,"['VISEO\n        Internship', 'Office National des Chemins de Fer (ONCF)', 'Fondation Alkarama micro finance']","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+955,"['SeveUp', 'La Banque Postale\n        Internship', 'Next Media Morocco\n        Internship', 'SOCIÉTÉ TANGÉROISE DE MAINTENANCE\n        Internship', 'MEDI1TV\n        Internship']","['Royat, Auvergne-Rhône-Alpes, France', 'Nantes, Pays de la Loire, France', 'Rabat, Rabat-Salé-Zemmour-Zaër, Morocco', 'Préfecture de Tanger-Asilah, Morocco', 'Préfecture de Tanger-Asilah, Morocco']"
+956,['R.A.D.E.E.F\n        Internship'],"['Fès, Maroc']"
+957,"['Bank Of Africa\n        Freelance', 'Société Générale Maroc\n        Freelance', 'Société Générale African Business Services\n        Full-time', 'Capgemini\n        Full-time']","['Casablanca et périphérie', 'Casablanca et périphérie', 'Casablanca et périphérie', 'Casablanca et périphérie', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+958,"['MEGA International', 'DXC Technology', 'ANCFCC', 'CGI']","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Rabat', 'Préfecture de Rabat, Morocco']"
+959,"[""Ministère de l'Education Nationale"", ""DSI - Ministère d'éducation nationale"", 'ICINET']","['Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+960,"['Agence Nationale des Ports (ANP) \n        Internship', 'OCP Group\n        Internship']","['El-Jadida, Casablanca-Settat, Maroc', 'El-Jadida, Casablanca - Settat, Maroc']"
+961,"['Forum GENI ENTREPRISES\n        Full-time', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Full-time""]","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco']"
+962,"['AUTO HALL Lalla Yacout', 'Veolia Africa']","['Tanger, Morocco', 'Tangier, Tanger, Morocco', 'Morocco', 'Tanger']"
+963,"['Insights.ma\n        Full-time', 'Mutuelle générale des postes et télécommunications', 'IHM Technologies']","['Rabat', 'Préfecture de Rabat, Morocco']"
+964,['Banque Centrale Populaire - BCP'],[]
+965,"['Olympiades ENSIAS\n        Part-time', 'ENSIAS IT Club\n        Part-time', 'ENSIAS AI\n        Part-time', 'CINDH-ENSIAS(Club d’Initiative Nationale du Développement Humain )\n        Part-time']","['Maroc', 'Maroc', 'Maroc', 'Maroc']"
+966,[],"['Bordeaux, Nouvelle-Aquitaine, France', 'Préfecture de Casablanca, Morocco', 'Bordeaux, Nouvelle-Aquitaine, France']"
+967,"['AccelCity\n        Internship', 'Information Systems Engineering Laboratory\n        Internship']","['Casablanca, Casablanca-Settat, Maroc', 'Marrakech - Safi, Maroc']"
+968,"['SAHAM Assurance', 'PIMAN 2.0', 'WaystoCap', 'SMART BUSINESS PARTNER']","['Casablanca, Grand Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+969,"['Payment Center For Africa - PCA\n        Internship', 'Gorgov Digital advertising agency\n        Internship']","['Casablanca Metropolitan Area', 'Cairo, Egypt']"
+970,"['Freelance', 'Ténor Group\n        Full-time', 'AFMA\n        Full-time', 'Saham Assistance\n        Full-time']","['Casablanca-Settat, Maroc', 'CASABLANCA', 'Casablanca', 'Casablanca', 'Casablanca', 'Casablanca']"
+971,"['ServiceNow\n        Permanent Full-time', 'GAMEDEV Sarl\n        Full-time', 'Customs Administration\n        Full-time', 'Sofrecom\n        Full-time']","['Montreal, Quebec, Canada', 'Montreal, Quebec, Canada', 'Montreal, Quebec, Canada', 'Kenitra, Rabat-Sale, Morocco', 'Rabat, Rabat-Sale, Morocco', 'Rabat']"
+972,[],[]
+973,"['Semji', 'Reputation VIP', 'COZYNERGY', 'ONERA']","['Lyon, Auvergne-Rhone-Alpes, France', 'Lyon, Auvergne-Rhone-Alpes, France', 'Toulouse Area, France', 'Toulouse Area, France', 'Toulouse Area, France', 'Toulouse Area, France']"
+974,[],[]
+975,[],[]
+976,[],[]
+977,"[""Étudiante à l'ENSIAS"", 'Totalcall', 'SICOTEL DISTRIBUTION']","['Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Casablanca, Morocco']"
+978,"['Riverland Reply GmbH\n        Full-time', 'Cognizant\n        Full-time', 'bSuccess', 'NOVEC sa', ""Direction Régional de l'Equipement, du Transport et de la Logistique""]","['Munich Area, Germany', 'Casablanca Prefecture, Morocco', 'Rabat Prefecture, Morocco', 'Béni Mellal Province, Morocco']"
+979,[],[]
+980,"['Expertflow', '4D', 'itemis France SAS', 'SoftCenter – Rabat', 'Veolia']","['Préfecture de Rabat, Morocco', 'Rabat , Morocco', 'Rabat , Morocco', 'Rabat, Morocco', 'Rabat, Morocco']"
+981,"['CGI\n        Internship', 'Grenoble INP - Ensimag', ""Observatoire National Des Droits de l'Enfant"", 'Hult Prize Foundation']","['Grenoble, Auvergne-Rhône-Alpes, France']"
+982,[],[]
+983,['Ministry of Interior\n        Internship'],[]
+984,"['UM6P', 'Accenture', 'INTELLCAP', 'SAS', 'Tiznit province']","['Morocco', 'Casablanca Prefecture, Morocco', 'Agdal Rabat , Morocco', 'France', 'Tiznit Province, Morocco']"
+985,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS""]","['Rabat, Rabat - Salé - Kénitra, Maroc']"
+986,"['DOCAPOSTE', 'ZTE Corporation']","['Casablanca, Grand Casablanca, Morocco', 'Maroc,Rabat', 'Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco']"
+987,[],[]
+988,"['INTELCIA\n        Internship', 'Moroccan Foundation of the Student', 'STE Roche Travaux SARL\n        Internship', ""Laâyoune's Urban Agency\n        Internship"", 'ISMAILI’S FIDUCIARY\n        Internship']","['Rabat-Salé-Kenitra, Morocco', 'Es Semara, Laâyoune-Sakia El Hamra, Maroc', 'Province of Laâyoune, Morocco', 'Province of ESSemara, Morocco']"
+989,"['IEEE ENSIAS STUDENT BRANCH', 'D3 SOFT']","['Préfecture de Tanger-Asilah, Morocco']"
+990,"['D&A TECHNOLOGIES\n        Internship', 'Finatech Group']","['Préfecture de Rabat, Morocco']"
+991,"['CIH BANK', 'DXC Technology Maroc', 'VALFIN', 'FitIn Consulting', 'Trésorerie Générale du Royaume']","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco', 'RABAT']"
+992,"['LM RABAT \n        Full-time', 'Total\n        Internship']","['Rabat-Sale, Morocco', 'Casablanca. Maroc']"
+993,[],[]
+994,"['Mohammed VI Polytechnic University\n        Internship', 'OCP SA\n        Internship', 'RADEEL\n        Internship']","['Province de Larache, Morocco']"
+995,"['IPCIG\n        Internship', 'Auto-école \n        Internship']","['Rabat, Rabat-Salé-Kénitra, Maroc', 'Rabat, Rabat - Salé - Kénitra, Maroc']"
+996,"['Effyis Group', 'CID-Conseil Ingénierie et Développement \n        Internship', 'Caisse financement  routier ( CFR)']","['Casablanca, Casablanca-Settat, Maroc', 'Salé, Rabat - Salé - Kénitra, Maroc', 'Préfecture de Rabat, Morocco']"
+997,"['Nimbleways\n        Full-time', 'SQLI', 'Masarat App\n        Internship', 'MySchool']","['Préfecture de Rabat, Morocco']"
+998,[],[]
+999,"['Euro Makers\n        Internship', 'INTELLCAP SARL\n        Internship', 'Lesieur Cristal\n        Internship']","['Région de La Rochelle, France', 'Préfecture de Rabat, Morocco', 'Préfecture de Casablanca, Morocco']"
+1000,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'Tesca Group\n        Internship']","['Rabat, Rabat-Salé-Kenitra, Morocco', 'Tangier, Tanger-Tetouan-Al Hoceima, Morocco']"
+1001,"['Banque Centrale Populaire - BCP\n        Internship', 'Shokly\n        Internship', 'Royal Air Maroc\n        Internship', 'Office National Des Aéroports\n        Internship', 'ISSS SETTAT\n        Internship']","['Casablanca - Settat, Maroc', 'Paris, Île-de-France, France', 'Casablanca, Maroc', 'Province de Nouaceur, Morocco', 'Province de Settat, Morocco']"
+1002,"[""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Internship"", 'Forum GENI Entreprises\n        Part-time']","['Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Salé-Kénitra, Maroc']"
+1003,"['Flowhaven', 'AALTO MOSA!C-Lab', 'ATTAWFIQ Micro Finance', 'ATTAWFIQ Micro Finance']","['Helsinki, Finland', 'Espoo, Finland', 'Avenue Hassan II, Casablanca, Morocco', 'Avenue Hassan II, Casablanca, Morocco']"
+1004,[],[]
+1005,['NBS Consulting | Salesforce Platinum Partner\n        Internship'],"['Casablanca, Casablanca-Settat, Morocco']"
+1006,[],[]
+1007,"['CGI\n        Internship', 'ONEE-Branche Eau', 'REDAL-RABAT']","['Rabat - Salé - Kénitra, Maroc', 'Maroc Rabat']"
+1008,"[""Centre Régional d'Investissement Marrakech - Safi"", 'PortNet: ""Guichet Unique National des Procédures du Commerce Extérieur""\n        Full-time', 'AGIWISE', 'CGI', 'Algo Consulting Group']",[]
+1009,"['University of Ottawa', 'Alithya\n        Permanent Full-time', 'Microsoft North Africa\n        Internship']","['Ottawa, Ontario, Canada', 'Ottawa, Ontario, Canada', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Rabat-Sale, Morocco']"
+1010,"['RIBATIS\n        Full-time', 'SQLI\n        Full-time', 'GE Healthcare\n        Full-time']","['Préfecture de Casablanca, Morocco', 'Région de Paris, France', 'Région de Paris, France']"
+1011,['LamaZzuro\n        Internship'],"['Casablanca - Settat, Maroc']"
+1012,"['Banque Centrale Populaire - BCP\n        Internship', 'Intellcap\n        Internship', ""CLEF - Centre Leadership d'Encadrement et de Formation\n        Internship"", 'RADEEO\n        Internship']","['Casablanca, Casablanca-Settat, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Rabat, Rabat-Sale, Morocco', 'Oujda, L’Oriental, Morocco']"
+1013,[],[]
+1014,['Otis Elevator Co.\n        Internship'],['Tangier']
+1015,"['Shamsiyah\n        Internship', 'Second World\n        Internship', 'The English Bookshop\n        Part-time', 'Assabil Model United Nations']","['Casablanca, Morocco', 'Rabat, Rabat-Sale, Morocco', 'Rabat,Ets Bir Kacem Assabil, Maroc']"
+1016,"['Groupe Crédit Agricole', ""Ministère de l'économie et des Finances""]","['Casablanca, Casablanca-Settat, Maroc', 'Préfecture de Casablanca, Morocco', 'Rabat Prefecture, Morocco', 'Rabat Prefecture, Morocco']"
+1017,"['Ministère de la Justice Maroc', 'MAXWARE TECHNOLOGY', 'Super Cerame SA']","['Préfecture de Rabat, Morocco', 'Préfecture de Rabat, Morocco', 'Province de Kénitra, Morocco', 'Province de Kénitra, Morocco']"
+1018,"['GENIE FORUM', 'Dahbi Technologie Maroc\n        Internship']","['Rabat', 'Casablanca, Casablanca-Settat, Maroc']"
+1019,"['Henceforth', 'ANNOUR Technologies', 'Taillis Lab']","['Rabat,Maroc', 'Préfecture de Casablanca, Morocco', 'Préfecture de Casablanca, Morocco']"
+1020,"['Procom Québec\n        Full-time', 'Caisse Centrale de Garantie (CCG) \n        Full-time']","['Montréal, Québec, Canada', 'Maroc']"
+1021,"['OKA CONSULTING LTD.\n        Permanent Full-time', 'BGW Multimedia\n        Permanent Full-time', 'Canal+ Technologies\n        Contract Full-time', 'INRIA - Rennes\n        Permanent Full-time']","['Montreal, Quebec, Canada', 'Montreal, Quebec, Canada', 'Paris, Île-de-France, France', 'Rennes, Brittany, France']"
+1022,['National Office of Professional Formation and Labor Promotion\n        Full-time'],"['Casablanca, Morocco']"
+1023,"['Visa\n        Full-time', 'S2M', 'SOGETI']","['Toronto, Canada Area', 'Toronto, Canada Area', 'Casablanca, Morocco', 'Casablanca, Morocco', 'Casablanca, Morocco', 'Paris, France']"
+1024,"['Hydro-Québec', 'Randstad', ""L'Oréal"", 'Faction A', 'agileDSS']","['Montreal, Quebec, Canada', 'Montreal, Quebec, Canada', 'Montreal, Quebec, Canada', 'Montreal, Quebec, Canada']"
+1025,"['CGI\n        Full-time', 'PM SCADA Cyber Défense', 'SPEAR\n        Self-employed', 'Devoteam\n        Full-time', 'I.T.Consulting\n        Full-time']","['Montréal, Québec, Canada', 'Région de Montréal, Canada', 'Maroc', 'Maroc']"
+1026,"[""Ministère de l'Economie, des Finances et de la Réforme de l'Administration\n        Internship""]","['Préfecture de Rabat, Maroc']"
+1027,['Al Omrane\n        Internship'],"['Agadir, Souss-Massa, Morocco']"
+1028,"['ServiceNow Practice at Cognizant Formerly Linium', 'Ivanhoé Cambridge', 'Nexio\n        Full-time', 'Global Support Technologies', 'IDEMIA']","['Montreal, Quebec, Canada', 'Montreal, Canada Area', 'Rabat Prefecture, Morocco']"
+1029,"['Tourisme Québec', 'IBM', 'UQAM | Université du Québec à Montréal', 'UQAM | Université du Québec à Montréal']","['Montréal', 'Région de Montréal, Canada', 'Région de Montréal, Canada', 'Région de Montréal, Canada']"
+1030,"['GAUS\n        Contract Full-time', ""Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes - ENSIAS\n        Contract Full-time"", ""Ministère Chargé de l'Industrie  MCI"", 'QISTASLAB', 'SOMACA ; Société Marocaine de Construction Automobile']","['Sherbrooke, Québec, Canada', 'Rabat-Salé-Kénitra, Maroc', 'Préfecture de Rabat, Morocco', 'Préfecture de Skhirat-Témara, Morocco', 'Préfecture de Casablanca, Morocco']"
+1031,['Nokia'],[]
+1032,[],[]
+1033,[],[]
+1034,"['Nuvei', 'IDEMIA', 'SAFRAN IDENTITY & SECURITY', 'Morpho, Safran group']","['Montreal, Canada', 'Casablanca, Morocco', 'Casablanca, Morocco', 'Casablanca, Morocco']"
+1035,[],[]
+1036,"['Desjardins\n        Full-time', 'GRIIS - Groupe de recherche interdisciplinaire en informatique de la santé\n        Full-time', 'CGI']","['Région de Montréal, Canada', 'Québec, Canada']"
+1037,"['Leyton', 'Institut National des Postes et Télécommunications (INPT)\n        Contract Part-time', 'University of North Dakota']","['Ontario, Canada', 'Rabat-Salé-Kenitra, Morocco', 'Grand Forks, North Dakota, USA']"
+1038,"['Leap Conseil', 'La Capitale', 'Jumia Maroc', 'Centrale Danone', 'OLTECH']","['Quebec, Canada', 'Quebec, Canada', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca Prefecture, Morocco']"
+1039,"['Intact\n        Full-time', 'Alithya\n        Full-time', 'assurance', 'CDG Développement- Groupe CDG', 'Honda Motor Europe Ltd succursale France']","['Région de Montréal, Canada', 'Région de Montréal, Canada', 'Casablanca, Maroc', 'Rabat, Maroc', 'Casablanca, Maroc']"
+1040,[],[]
+1041,[],"['Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco', 'Casablanca Prefecture, Morocco']"
+1042,"['Société Générale - Africa Technologies & Services\n        Full-time', 'ADMIR LAB, Rabat IT CENTER', 'International Moroccan School\n        Full-time', 'Kaabpub (Start-up)', 'Préfecture de Inezgane ait Melloul']","['Préfecture de Casablanca, Morocco', 'Préfecture de Rabat, Morocco', 'Préfecture d’Inezgane-Aït Melloul, Morocco', 'Agadir', 'Inezgane']"
+1043,"['Bell', 'Effenti inc\n        Permanent Full-time', 'Gfi Maroc\n        Permanent Full-time', 'Al Barid Bank', 'CIH BANK']","['Quebec, Canada', 'Quebec, Canada', 'Rabat Prefecture, Morocco', 'Rabat, Rabat-Salé-Kenitra, Morocco', 'Casablanca, Casablanca-Settat, Morocco']"
+1044,"['AudienceView', 'Orange Business Maroc', 'ADIAS - IT Solutions & Services']","['Toronto, Ontario, Canada', 'Rabat', 'Casablanca']"
+1045,['SSI SCHÄFER\n        Full-time'],"['Canada', 'Casablanca et périphérie', 'Casablanca et périphérie']"
+1046,"['Independant', 'InEdge - Insurance Analytics', 'IMS Health Canada', 'CNIA SAADA ASSURANCE', 'Meditelecom']","['Montreal, Quebec, Canada', 'Casablanca, Grand Casablanca, Morocco', 'Casablanca, Grand Casablanca, Morocco']"
+1047,"['Equisoft', 'Equisoft', 'Bell Technical Solutions', 'BMCI Groupe BNP Paribas', 'COMPUTIME SARL']","['Région de Montréal, Canada', 'Région de Montréal, Canada', 'Montreal, Canada Area', 'Casablanca - Maroc']"
+1048,"['ALFINEX Conseils\n        Self-employed', 'WARCIP Project of World Bank Group', 'ALFINEX Consulting', 'Groupe BGFIBank\n        Permanent Full-time', 'Millennium Challenge Account\n        Freelance']","['Canada', ""Afrique de l'Ouest et France"", ""Afrique de l'Ouest"", 'Bénin', ""Benin, Côte d'Ivoire, Sénégal, Mauritanie, Maroc, France, USA""]"
+1049,"['Confidential\n        Full-time', 'Fujikura Automotive Morocco', 'Nestlé', 'Les Domaines Agricoles Business Unit PL', 'Les Domaines Agricoles']","['Alberta, Canada', 'Maroc', 'Préfecture de Casablanca, Morocco', 'Casablanca']"
+1050,[],[]
+1051,"['TalanSolutions (EXL Group)', 'Blan-mar', 'Tanger Med Zones', 'ONCF']","['Paris Area, France']"
+1052,"['EPSI Inc.', 'Faurecia', 'Necotrans']","['Gatineau, Quebec, Canada', 'Paris, Île-de-France, France', 'Casablanca Metropolitan Area - Morocco', 'Casablanca Metropolitan Area - Morocco', 'Casablanca Metropolitan Area - Morocco']"
+1053,"['CA Technologies', 'NET2S, now part of BT', 'Inria\n        Internship']","['Dubai', 'Dubai', 'Paris Area, France', 'Paris Area, France', 'Paris Area, France', 'Paris Area, France', 'Paris Area, France', 'Sophia Antipolis, Provence-Alpes-Côte d’Azur, France']"
+1054,"['Stealth Startup - Tech & Entertainment', 'Motorola Mobility', 'Human Engines', 'Qualcomm']","['California', 'Mountain View, California', 'Greater San Diego Area', 'Greater San Diego Area']"
+1055,"['University of Houston', 'University of Houston', 'University of Houston', ""L'Association des jeunes Développeurs"", 'IEEE ENSIAS Student Branch']","['United States', 'United States', 'United States', 'Rabat Prefecture, Morocco', 'Préfecture de Rabat, Morocco']"
+1056,"['University of Houston', 'University of Houston', 'CDG Capital', 'Chaabi Bank']","['Houston, Texas Area', 'United States', 'Préfecture de Rabat, Morocco', 'Préfecture de Fès, Morocco']"
+1057,"['Prometheus Computing LLC', 'Université Clermont Auvergne', 'The James Hutton Institute', 'Atos']","['Maryland, USA', 'United States', 'Clermont-Ferrand Area, France', 'United Kingdom', 'Lyon Area, France']"
+1058,"['Microsoft\n        Full-time', 'Microsoft', 'eBay', 'eBay', 'University of Houston']","['Mountain View, California, United States', 'San Francisco Bay Area', 'San Jose, California', 'San Jose Bay Area']"
+1059,"['CDM Smith\n        Full-time', 'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research', 'MAScIR - Moroccan Foundation for Advanced Science, Innovation and Research']","['Greater Boston Area', 'Préfecture de Rabat, Morocco', 'Rabat Prefecture, Morocco']"
+1060,"['Two Sigma', 'RMS', 'Private Business']","['Greater New York City Area', 'Mountain View, ca', 'Mountain View, CA', 'Newark, CA']"
+1061,"['Google\n        Full-time', 'Cognizant']","['Dallas-Fort Worth Metroplex', 'Plano, TX', 'Plano, Texas', 'Plano, Texas']"
+1062,"['Pariveda Solutions', 'Smartbridge', 'ST', 'Longofer']","['Houston, Texas, United States', 'Houston, Texas Area', 'Houston, Texas Area', 'Houston, Texas Area', 'Région de Grenoble, France', 'Casablanca, Morocco']"
+1063,"['University of Pennsylvania', 'Devoteam Consulting']","['Frederick, MD', 'Maroc']"
+1064,"['NAG (Numerical Algorithms Group)\n        Full-time', 'Innovative Computing Laboratory (ICL)', 'Inria', 'Bordeaux-INP']","['Manchester, United Kingdom', 'Manchester, United Kingdom', 'Manchester, United Kingdom', 'Knoxville, Tennessee Area', 'Bordeaux Area, France', 'Bordeaux Area, France']"
+1065,"['Terragence \n        Internship', 'Mohammed VI Polytechnic University\n        Full-time', 'Smart Technologies Group \n        Full-time']","['London, United Kingdom', 'Marrakech, Morocco', 'Morocc']"
+1066,"['VISEO\n        Full-time', 'Novedia Group\n        Full-time', 'Netfective Technology']","['London, United Kingdom', 'London, United Kingdom', 'Casablanca', 'Casablanca']"
+1067,"['Amazon', 'BT', 'Maroc Telecom\n        Full-time']","['London, United Kingdom', 'London, United Kingdom', 'London, United Kingdom', 'London, United Kingdom', 'Morocco']"
+1068,"['SAP', 'Nevo-Technologies Morroco', 'SQLI']","['Tokyo, Japan', 'Tokyo, Japan', 'Oujda', 'Oujda', 'Oujda']"
+1069,"['ExaWizards Inc.\n        Permanent', 'アルファヤ\n        Freelance', 'Sendagaya Japanese Institute\n        Contract', 'Tokai University\n        Contract', 'Rakuten\n        Part-time']","['Tokyo, Japan', 'Tokyo, Japan', 'Tokyo, Japan', 'Kanagawa, Japan', 'Greater Tokyo Area']"
+1070,"['NeurodigitX', 'NodOn®', 'Zenytime', 'mascir', 'Compagnie Marocaine Des Hydrocarbures SA']","['Shanghai City, China', 'Rabat, Phoenix', 'Maroc', 'Maroc']"
