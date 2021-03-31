@@ -13,7 +13,7 @@ If you are an ensiast you can ask me for the CSV files, or scrape your own data.
 
 ## Usage
 
-Use Id/class to control which data you want to get.
+Use id/class to control which data you want to get.
 
 
 ## License
