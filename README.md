@@ -1,5 +1,5 @@
 # Scraping Alumni Data using a bot 🤖 
-Download the CSV you want, or scrape your own data.
+If you are an ensiast you can ask me for the CSV files, or scrape your own data.
 
 ## Thank you to:
 
