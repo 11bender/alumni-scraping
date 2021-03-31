@@ -1,4 +1,4 @@
-# Scraping Alumni Data using a bot 🤖 
+# Scraping alumni Data from LinkedIn using a bot 🤖 
 If you are an ensiast you can ask me for the CSV files, or scrape your own data.
 
 ## Thank you to:
